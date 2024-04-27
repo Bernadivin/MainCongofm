@@ -41,5 +41,37 @@
 
 {"description":"Glory Christ Channel est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sources":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","title":"GLORY CHRIST"},
 
+{"description":"Espace TV est une télévision chretienne basée à Conakry","sources":["http://69.64.57.208/espacetv/playlist.m3u8"],"subtitle":"By Blender Channel","thumb":"https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg","title":"ESPACE TV"},
+
+{"description":"Kalac tv","sources":["https://edge.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8"],"subtitle":"By Blender Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"KALAC TV"},
+
+{"description":"RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg","title":"RTI 1"},
+
+{"description":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","title":"RTI 2"},
+
+{"description":"LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://69.64.57.208/la3/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTgyODg3Njlf/laTrois.png","title":"LA 3"},
+
+{"description":"Business 24 TV est une chaîne privée ivoirienne","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODcwMzU5OTVf/business.jpg","title":"BUSINESS 24 TV"},
+
+{"description":"Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sources":["https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png","title":"IVOIRE TV"},
+
+{"description":"Guide Love TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sources":["https://video1.getstreamhosting.com:1936/8056/8056/chunklist_w223996626.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODc0MTgyNzVf/Guidetvs.jpeg","title":"GUIDE LOVE TV"},
+
+{"description":"BENIE TV est une télévision panafricaine d’obédience chrétienne dont la zone de couverture s’étend sur le monde, a été créée en Juin 2012 par le Couple Pastoral SAMUEL ET SYLVIANE OHENE-MANTE , Leaders de l’EGLISE EVANGELIQUE LA BENEDICTION située à Adjamé ; Commune De la Ville d’Abidjan,elle-même capitale de la République de Côte d’Ivoire. Elle est reçue gratuitement, sans abonnement à l’aide d’un décodeur et d’une parabole orientée dans la position des différents satellites par lesquels elle émet.BENIE TV met à la disposition de tous les annonceurs, partenaires, et sponsors, une plateforme de communication pour la diffusion de leurs messages, communiqués, spots et toute autre information relative à leurs activités avec pour objectif , Répandre l’évangile en vue de gagner des âmes à CHRIST, Permettre aux chrétiens de croitre spirituellement, Permettre aux Chrétiens de posséder leurs héritages","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_tv-avc1_600000=4-mp4a_98400_qad=1.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODU3MDIzNDBf/benie.png","title":"BENIE TV"},
+
+{"description":"Intelligent TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk2MDA4NDZf/intelligent.jpg","title":"INTELLIGENT TV"},
+
+{"description":"Inoro tv est une chaîne télévisée du Kenya spécialisée au informations et autres.","sources":["https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQyMTk0ODRf/inoorotv.jpg","title":"INORO TV"},
+
+
+{"description":"ORTM 1 est la premiere nationale malienne qui diffuse des informations, emissions, musique et autres...","sources":["http://69.64.57.208/ortm/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTUyMjdf/ortm.jpg","title":"ORTM 1"},
+
+{"description":"ORTM 2 est la deuxième chaîne nationale malienne qui diffuse des informations, emissions, musique et autres...","sources":["http://69.64.57.208/tm2/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQ2MDk4NDNf/mali2.jpeg","title":"ORTM 2"},
+
+{"description":"M7 est une chaine malienne qui diffuse des informations, emissions, musique et autres...","sources":["http://69.64.57.208/tm1/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODcyMTYwMzRf/M7.png","title":"TM1 TV"},
+
+{"description":"Cherifla TV est une chaine malienne qui diffuse des informations, emissions, musique et autres...","sources":["http://69.64.57.208/cherifla/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk1OTk2NThf/cherifla.png","title":"CHERIFLA TV"},
+
+{"description":"Office de Radiodiffusion et Télévision du Niger (Tele Sahel) est la plateforme unique, ouverte à la société civile, aux citoyens et à l'autorité locale de la ville et de sa région pour leur permettre de s’exprimer librement, proposer leurs idées et accéder à toutes les informations économiques, environnementale, culturelle, sportive. Vos idées et vos propositions sont les bienvenues.","sources":["http://69.64.57.208/telesahel/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQ2MDk4NThf/nigertv.jpeg","title":"TELE SAHEL"},
 
 ]}]}
