@@ -74,4 +74,14 @@
 
 {"description":"Office de Radiodiffusion et Télévision du Niger (Tele Sahel) est la plateforme unique, ouverte à la société civile, aux citoyens et à l'autorité locale de la ville et de sa région pour leur permettre de s’exprimer librement, proposer leurs idées et accéder à toutes les informations économiques, environnementale, culturelle, sportive. Vos idées et vos propositions sont les bienvenues.","sources":["http://69.64.57.208/telesahel/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQ2MDk4NThf/nigertv.jpeg","title":"TELE SAHEL"},
 
+{"description":"2Stv est une station de radio diffusée sur le réseau de Radiodiffusion Télévision Sénégalaise (RTS1 HD) de Dakar, au Sénégal, fournissant des informations, des sports, des débats, des émissions en direct et des informations sur la culture ainsi que la musique.","sources":["http://69.64.57.208/crtv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTEwMjUxNzdf/rts2.png","title":"2STV"},
+
+{"description":"Leral TV est une chaine basée à Dakar qui diffuse l'actualité dans le monde.","sources":["https://live3.acangroup.org:1929/acanabr/leraltv_all/acanabr/leraltv_720p/chunks.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkyOTVf/Leral.jpeg","title":"LERAL TV"},
+
+{"description":"La Télévision Togolaise (TVT) est le nom de l'unique chaîne de télévision publique togolaise, Crée depuis 1979.","sources":["http://69.64.57.208/tvt/playlist.m3u8"],"subtitle":"By Google","thumb":"https://od.lk/s/M18yNTkyNzk2MjZf/tvt.png","title":"TVT"},
+
+{"description":"S.O.S TV est la thématique gabonaise du groupe new world mediaque","sources":["https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8"],"subtitle":"By Google","thumb":"https://od.lk/s/M18yODQ2Njc0MDlf/sos.png","title":"SOS TV"},
+
+{"description":"RT JVA television est la deuxieme chaine du Togo avec des diversites des programmes","sources":["https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"],"subtitle":"By Google","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"RT JVA"}
+
 ]}]}
