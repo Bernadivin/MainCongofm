@@ -82,6 +82,18 @@
 
 {"description":"S.O.S TV est la thématique gabonaise du groupe new world mediaque","sources":["https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8"],"subtitle":"By Google","thumb":"https://od.lk/s/M18yODQ2Njc0MDlf/sos.png","title":"SOS TV"},
 
-{"description":"RT JVA television est la deuxieme chaine du Togo avec des diversites des programmes","sources":["https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"],"subtitle":"By Google","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"RT JVA"}
+{"description":"RT JVA television est la deuxieme chaine du Togo avec des diversites des programmes","sources":["https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"],"subtitle":"By Google","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"RT JVA"},
 
-]}]}
+{"description":"RT Zimbabwe","sources":["https://webstreaming-2.viewmedia.tv/web_018/Stream/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"YADAH TV"},
+
+{"description":"WAN LUO TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"WAN LUO"},
+
+{"description":"Bukedde 1 TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BUKEDDE 1"},
+
+{"description":"Bukedde 2 TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BUKEDDE 2"},
+
+{"description":"Salt TV is a Christian television channel station from Uganda. Salt TV is based in Kampala. Matthew 5:13-16 (NKJV) Believers Are Salt and Light 13 You are the salt of the earth, but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.","sources":["https://readymedia.moderntv.cloud:8092/distribute/readymedia/SALTTV_stream_13/5-20-hls/live.m3u8"],"subtitle":"By Channel","thumb":"https://www.saltmedia.ug/images/NOV/SALT-TV.jpg","title":"Salt TV"},
+
+{"description":"Dream TV est une chaine privee en Uganda.","sources":["https://readymedia.moderntv.cloud:8092/distribute/readymedia/DREAMTV_stream_43/5-20-hls/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYxNjEzNzlf/dreamuganda.png","title":"DREAM TV"},
+
+{"description":"Fort TV est une chaine privee en Uganda.","sources":["http://fort.co-works.org:8080/hls/live.stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","title":"FORT TV"}]}]}
