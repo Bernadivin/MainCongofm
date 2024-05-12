@@ -13,7 +13,7 @@
 
 {"description":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","sources":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","title":"ONE TV"},
 
-{"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
+{"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u82"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
 
