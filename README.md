@@ -1,5 +1,5 @@
 # MainCongofm
-{"categories":[{"name":"Movies","videos":[{"description":"Congo fm est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","sources":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg","title":"CONGOO FM"},
+{"categories":[{"name":"Movies","videos":[{"description":"Congo fm est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://livepush.io/watch?v=orBTbQIEGQmNXss"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg","title":"CONGOO FM"},
 
 {"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.telepack.net/evitv/index.m3u8"],"subtitle":"EVI TV est une chaîne de télévision généraliste qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
 
@@ -100,6 +100,10 @@
 {"description":"Dream TV est une chaine privee en Uganda.","sources":["https://readymedia.moderntv.cloud:8092/distribute/readymedia/DREAMTV_stream_43/5-20-hls/live.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYxNjEzNzlf/dreamuganda.png","title":"DREAM TV"},
 
 {"description":"Fort TV est une chaine privee en Uganda.","sources":["http://fort.co-works.org:8080/hls/live.stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","title":"FORT TV"}]}]}
+
+
+bero fm
+http://stream.zeno.fm/eyuiqh60p1qtv
 
 
 {"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste  dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["http://139.162.176.133:8080/hls/stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
