@@ -21,6 +21,8 @@
 
 {"description":"TV 2","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
 
+{"description":"Be Blessed Group","sources":["https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BBE TV"},
+
 {"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["http://139.162.176.133:8080/hls/stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://185.59.221.131:8081/live/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
