@@ -21,7 +21,7 @@
 
 {"description":"TV 2","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
 
-{"description":"Be Blessed Group","sources":["https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BBE TV"},
+{"description":"Be Blessed Group Television","sources":["https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BEB TV"},
 
 {"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["http://139.162.176.133:8080/hls/stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
 
