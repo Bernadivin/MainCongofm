@@ -45,6 +45,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"},
 
+{"description":"7 infos est une francaise d'informations international et autres.","sources":["http://185.59.221.131:8081/live/7infos/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzQ2MjNf/septInfos.png","title":"7 INFOS"},
+
 {"description":"Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg","title":"VISION 4"},
 
 {"description":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sources":["https://stream.it-innov.com/misec/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"MISEC TV"},
