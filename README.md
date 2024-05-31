@@ -17,6 +17,8 @@
 
 {"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 
+{"description":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","title":"STAR+ NOVELAS"},
+
 {"description":"Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques congolaise, africaines rumba, ndombolo et international...","sources":["http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","title":"TRACE KITOKO"},
 
 {"description":"TV 2","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
