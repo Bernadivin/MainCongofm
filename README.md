@@ -170,7 +170,13 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"TM1 TV est une chaine privee","sources":["http://185.59.221.131:8081/live/tm1/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzM5NjRf/tm1.png","title":"TM 1 TV"},
 
-{"description":"Bonferey TV est une chaine privee","sources":["http://185.59.221.131:8081/live/bonferey/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzQ4NTdf/bonferey.jpg","title":"BONFEREY TV"}]}]}
+{"description":"Bonferey TV est une chaine privee","sources":["http://185.59.221.131:8081/live/bonferey/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzQ4NTdf/bonferey.jpg","title":"BONFEREY TV"},
+
+{"description":"DBS TV est une chaine privee","sources":["http://185.59.221.131:8081/live/dbstv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzY2NzBf/dbstv.jpeg","title":"DBS TV"},
+
+{"description":"Dounia TV est une chaine chretienne","sources":["http://185.59.221.131:8081/live/douniatv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzc2OTNf/dounia.png","title":"DOUNIA TV"},
+
+{"description":"KTO TV est une chaine chretienne","sources":["http://185.59.221.131:8081/live/kto/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzgxNTVf/ktotv.png","title":"KTO TV"}]}]}
 
 
 bero fm
