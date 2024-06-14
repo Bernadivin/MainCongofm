@@ -38,6 +38,9 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["https://helga.iptv2022.com/sh/GE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
 
+{"description":"Tele Congo est une chaine national de la Republique du Congo.","sources":["http://185.59.221.131:8081/live/telecongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg","title":"TELE CONGO"},
+
+
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://185.59.221.131:8081/live/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
 {"description":"VOX Africa est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/voxafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjE3ODdf/voxafrica.png","title":"VOX AFRICA"},
@@ -163,7 +166,11 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"CRTV est une chaine national du cameroune","sources":["http://185.59.221.131:8081/live/crtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjg4OTdf/crtv.png","title":"CRTV"},
 
-{"description":"Albayane tv est une chaîne thematiquest","sources":["http://185.59.221.131:8081/live/albayenetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMzI2Mzlf/albayane.png","title":"ALBAYANE TV"}]}]}
+{"description":"Albayane tv est une chaîne thematiquest","sources":["http://185.59.221.131:8081/live/albayenetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMzI2Mzlf/albayane.png","title":"ALBAYANE TV"},
+
+{"description":"TM1 TV est une chaine privee","sources":["http://185.59.221.131:8081/live/tm1/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzM5NjRf/tm1.png","title":"TM 1 TV"},
+
+{"description":"Bonferey TV est une chaine privee","sources":["http://185.59.221.131:8081/live/bonferey/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzQ4NTdf/bonferey.jpg","title":"BONFEREY TV"}]}]}
 
 
 bero fm
