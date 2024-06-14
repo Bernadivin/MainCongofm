@@ -71,6 +71,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"KKTV Angola est une chaîne de télévision basée au Angola.","sources":["https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg","title":"KKTV ANGOLA"},
 
+{"description":"Renouveau tv est une chaîne thematiquest","sources":["http://185.59.221.131:8081/live/renouveautv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMzIxODRf/renouveau.jpg","title":"RENOUVEAU TV"},
+
 {"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"},
 
 {"description":"Music Télévision est une chaîne specialisee en musique international","sources":["http://185.59.221.131:8081/live/mtv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ1MjBf/Musictv.png","title":"MUSIC TV"},   
@@ -159,7 +161,9 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Fort TV est une chaine privee en Uganda.","sources":["http://fort.co-works.org:8080/hls/live.stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","title":"FORT TV"},
 
-{"description":"CRTV est une chaine national du cameroune","sources":["http://185.59.221.131:8081/live/crtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjg4OTdf/crtv.png","title":"CRTV"},]}]}
+{"description":"CRTV est une chaine national du cameroune","sources":["http://185.59.221.131:8081/live/crtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjg4OTdf/crtv.png","title":"CRTV"},
+
+{"description":"Albayane tv est une chaîne thematiquest","sources":["http://185.59.221.131:8081/live/albayenetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMzI2Mzlf/albayane.png","title":"ALBAYANE TV"}]}]}
 
 
 bero fm
