@@ -40,6 +40,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"VOX Africa est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/voxafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjE3ODdf/voxafrica.png","title":"VOX AFRICA"},
 
+{"description":"LCA TV est une chaine privee","sources":["http://185.59.221.131:8081/live/lca/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjkzOTBf/lcatv.png","title":"LCA TV"},
+
 {"description":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","sources":["https://helga.iptv2022.com/sh/VERITE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","title":"VERITE TV"},
 
 {"description":"Sunu Yeuf TV est une chaine televisee qui diffuse que des theatres, films et series Africains pour votre divertissement","sources":["http://185.59.221.131:8081/live/sunuyeuf/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMTk5ODZf/sunuyeuf.jpg","title":"SUNU YUEF"},
@@ -101,6 +103,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Business 24 TV est une chaîne privée ivoirienne","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODcwMzU5OTVf/business.jpg","title":"BUSINESS 24 TV"},
 
+{"description":"Joliba News est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/jolibatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjYwMDZf/joliba.jpg","title":"JOLIBA NEWS"},
+
 {"description":"Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sources":["https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png","title":"IVOIRE TV"},
 
 {"description":"Guide Love TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sources":["https://video1.getstreamhosting.com:1936/8056/8056/chunklist_w223996626.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODc0MTgyNzVf/Guidetvs.jpeg","title":"GUIDE LOVE TV"},
@@ -143,7 +147,11 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Dream TV est une chaine privee en Uganda.","sources":["https://readymedia.moderntv.cloud:8092/distribute/readymedia/DREAMTV_stream_43/5-20-hls/live.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODYxNjEzNzlf/dreamuganda.png","title":"DREAM TV"},
 
-{"description":"Fort TV est une chaine privee en Uganda.","sources":["http://fort.co-works.org:8080/hls/live.stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","title":"FORT TV"}]}]}
+{"description":"KALAC TV est une chaine privee en Uganda.","sources":["http://185.59.221.131:8081/live/kalactv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjY1OTNf/kalac.png","title":"KALAC TV"},
+
+{"description":"Fort TV est une chaine privee en Uganda.","sources":["http://fort.co-works.org:8080/hls/live.stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","title":"FORT TV"},
+
+{"description":"CRTV est une chaine national du cameroune","sources":["http://185.59.221.131:8081/live/crtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjg4OTdf/crtv.png","title":"CRTV"},]}]}
 
 
 bero fm
