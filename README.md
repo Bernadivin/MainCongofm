@@ -67,6 +67,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"},
 
+{"description":"Music Télévision est une chaîne specialisee en musique international","sources":["http://185.59.221.131:8081/live/mtv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ1MjBf/Musictv.png","title":"MUSIC TV"},   
+
 {"description":"7 infos est une francaise d'informations international et autres.","sources":["http://185.59.221.131:8081/live/7infos/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzQ2MjNf/septInfos.png","title":"7 INFOS"},
 
 {"description":"Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg","title":"VISION 4"},
@@ -78,6 +80,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 {"description":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sources":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","title":"CTV AFRICA"},
 
 {"description":"Canal Woyla TV est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone","sources":["http://41.223.30.44:1935/Canalwoyla/canalwoyla/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzk4NjUyNTJf/IMG-20240320-WA0729.jpg","title":"CANAL WOYLA"},
+
+{"description":"Télévision 7 est une chaîne generaliste","sources":["http://185.59.221.131:8081/live/tv7/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ5OTZf/tv7.jpg","title":"TV 7"},   
 
 {"description":"Canal 2 International est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone","sources":["http://69.64.57.208/canal2international/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg","title":"CANAL 2 INTERNATIONAL"},
 
