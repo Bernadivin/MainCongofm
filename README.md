@@ -82,6 +82,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"7 infos est une francaise d'informations international et autres.","sources":["http://185.59.221.131:8081/live/7infos/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzQ2MjNf/septInfos.png","title":"7 INFOS"},
 
+ {"description":"Djoma TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/djomatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxMjc2MjRf/djoma.jpeg","title":"DJOMA TV"},
+
 {"description":"Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg","title":"VISION 4"},
 
 {"description":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sources":["https://stream.it-innov.com/misec/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"MISEC TV"},
