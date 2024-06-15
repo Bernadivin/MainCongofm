@@ -55,7 +55,7 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"3 TV est une chaine privee","sources":["http://185.59.221.131:8081/live/3tv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzA4ODRf/3tv.jpeg","title":"3 TV"},
 
-{"description":"Tele Africa est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/sunuyeuf/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjExNjRf/teeafrica.png","title":"TELE AFRICA"},
+{"description":"Tele Africa est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/teleafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjExNjRf/teeafrica.png","title":"TELE AFRICA"},
 
 {"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png","title":"BAZIK TV"},
 
@@ -92,7 +92,7 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Canal Woyla TV est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone","sources":["http://41.223.30.44:1935/Canalwoyla/canalwoyla/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzk4NjUyNTJf/IMG-20240320-WA0729.jpg","title":"CANAL WOYLA"},
 
-{"description":"CISTV est une télévision privee du guinee","sources":["http://185.59.221.131:8081/live/cistv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg","title":"CISTV"},
+{"description":"CISTV est une télévision privee du guinee","sources":["http://185.59.221.131:8081/live/cistv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMTkwNzVf/cistv.jpeg","title":"CISTV"},
 
 {"description":"Télévision 7 est une chaîne generaliste","sources":["http://185.59.221.131:8081/live/tv7/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ5OTZf/tv7.jpg","title":"TV 7"},   
 
@@ -146,15 +146,15 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"S.O.S TV est la thématique gabonaise du groupe new world mediaque","sources":["https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ2Njc0MDlf/sos.png","title":"SOS TV"},
 
-{"description":"RT JVA television est la deuxieme chaine du Togo avec des diversites des programmes","sources":["https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"RT JVA"},
+{"description":"RT JVA television est la deuxieme chaine du Togo avec des diversites des programmes","sources":["https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMTg4ODRf/rtjva.png","title":"RT JVA"},
 
-{"description":"RT Zimbabwe","sources":["https://webstreaming-2.viewmedia.tv/web_018/Stream/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"YADAH TV"},
+{"description":"RT Zimbabwe","sources":["https://webstreaming-2.viewmedia.tv/web_018/Stream/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMTg2OTJf/yadah.jpeg","title":"YADAH TV"},
 
-{"description":"WAN LUO TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"WAN LUO"},
+{"description":"WAN LUO TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMTg1MDJf/manluo.jpg","title":"WAN LUO"},
 
-{"description":"Bukedde 1 TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BUKEDDE 1"},
+{"description":"Bukedde 1 TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMTczNjRf/bekede1.jpeg","title":"BUKEDDE 1"},
 
-{"description":"Bukedde 2 TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"BUKEDDE 2"},
+{"description":"Bukedde 2 TV est une chaîne télévisée ugandaise.","sources":["https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMTgwMDBf/bukede2.jpeg","title":"BUKEDDE 2"},
 
 {"description":"Salt TV is a Christian television channel station from Uganda. Salt TV is based in Kampala. Matthew 5:13-16 (NKJV) Believers Are Salt and Light 13 You are the salt of the earth, but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.","sources":["https://readymedia.moderntv.cloud:8092/distribute/readymedia/SALTTV_stream_13/5-20-hls/live.m3u8"],"subtitle":"All Channels","thumb":"https://www.saltmedia.ug/images/NOV/SALT-TV.jpg","title":"Salt TV"},
 
