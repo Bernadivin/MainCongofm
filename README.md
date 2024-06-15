@@ -108,6 +108,12 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Espace TV est une télévision chretienne basée à Conakry","sources":["http://69.64.57.208/espacetv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg","title":"ESPACE TV"},
 
+{"description":"SABC 1 ","sources":["http://185.59.221.131:8081/live/sabc1/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18zMDM4MzA0NjZf/sabcone.png","title":"SABC 1"},
+
+{"description":"SABC News ","sources":["http://185.59.221.131:8081/live/sabcnews/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg","title":"SABC NEWS"},
+
+{"description":"eNews Channel Africa","sources":["http://185.59.221.131:8081/live/enca/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxNzA0Njdf/enca.jpeg","title":"ENCA TV"},
+
 {"description":"ITV est une télévision privee du guinee","sources":["http://185.59.221.131:8081/live/itv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzE1NDVf/itv.png","title":"ITV"},
 
 {"description":"Kalac tv","sources":["https://edge.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMjA4OTlf/kalac.jpeg","title":"KALAC TV"},
