@@ -106,13 +106,13 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"ITV est une télévision privee du guinee","sources":["http://185.59.221.131:8081/live/itv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzE1NDVf/itv.png","title":"ITV"},
 
-{"description":"Kalac tv","sources":["https://edge.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"KALAC TV"},
+{"description":"Kalac tv","sources":["https://edge.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMjA4OTlf/kalac.jpeg","title":"KALAC TV"},
 
 {"description":"RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg","title":"RTI 1"},
 
 {"description":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","title":"RTI 2"},
 
-{"description":"LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://69.64.57.208/la3/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTgyODg3Njlf/laTrois.png","title":"LA 3"},
+{"description":"LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://69.64.57.208/la3/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMjE5NTFf/la3.jpg","title":"LA 3"},
 
 {"description":"Business 24 TV est une chaîne privée ivoirienne","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODcwMzU5OTVf/business.jpg","title":"BUSINESS 24 TV"},
 
