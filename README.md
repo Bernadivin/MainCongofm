@@ -31,6 +31,8 @@
 
 {"description":"emci tv est une chaîne chrétienne pour l'évangile de Jésus Christ","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
 
+{"description":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","sources":["https://helga.iptv2022.com/sh/EGG_PRO_TV/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","title":"EGG PRO TV"},
+
 {"description":"Canal+ Pop est une chaine du groupe Canal+","sources":["http://185.59.221.131:8081/live/canalpop/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMzc3MTZf/canalpluspop.png","title":"CANAL+ POP"},
 
 {"description":"Be Blessed Média (Beb FM Et Beb TV) Est Un Projet Porté Par La Société Be Blessed Group, Entreprise De Droit Congolais Spécialisée Dans L’évènementiel, La Production Et La Diffusion Des Programmes De Radio Et Télévision, La Production Phonographique ; Qui Elle-Même À La Base Est Une Initiative Des Férus De La Culture Et Des Journalistes D’expérience Ayant Fait Leurs Preuves Dans La Mise En Œuvre Et La Gestion Des Médias Tant Publics Que Privés Au Congo. L’entreprise Est Implantée À Pointe-Noire, Dans L’arrondissement N°1 E.P.Lumumba, Au Numéro 138 De L’avenue Costaude Immeuble SCI ONANGA , Grand Marché Pointe-Noire.
@@ -43,7 +45,6 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 {"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["https://helga.iptv2022.com/sh/GE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
 
 {"description":"Tele Congo est une chaine national de la Republique du Congo.","sources":["http://185.59.221.131:8081/live/telecongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg","title":"TELE CONGO"},
-
 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://185.59.221.131:8081/live/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
@@ -77,8 +78,6 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
  {"description":"RCV TV","sources":["https://helga.iptv2022.com/sh/RCV_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNzg5Mzdf/rcvtv.jpg","title":"RCV TV"},
 
  {"description":"Savane TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/savanetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjI1NTNf/savane.png","title":"SAVANE TV"},
-
-{"description":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","sources":["https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","title":"EGG PRO TV"},
 
 {"description":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","sources":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","title":"POURIM TV"},
 
