@@ -21,6 +21,15 @@
 
 {"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 
+
+{"description":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sources":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","title":"MABOKE TV"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres...","sources":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","title":"NOVELAS TV 2"},
+
+{"description":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sources":["http://69.64.57.208/atv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","title":"A+ IVOIRE"},
+
 {"description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","sources":["https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RL PRO TV"},
 
 {"description":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","title":"STAR+ NOVELAS"},
@@ -90,6 +99,34 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
  {"description":"Savane TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/savanetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjI1NTNf/savane.png","title":"SAVANE TV"},
 
  {"description":"Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg","title":"SERIES NOVELAS"},
+
+ {"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://51.254.199.122:8080/N0llyW00dTV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV"},
+
+{"description":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","title":"AFRO MAGIC"},
+
+{"description":"Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","title":"NOVELAS 3"},
+
+{"description":"MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili......","sources":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","title":"MADI TV"},
+
+{"description":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili.","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","title":"BONGO TV"},
+
+{"description":"Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais","sources":["https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg","title":"CINEMA HAUSA"},
+
+{"description":"Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg","title":"AFRIWOOD BLOCKBUSTER"},
+
+{"description":"True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg","title":"TRUE AFRICA"},
+
+{"description":"Afriood Series TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA3Mjhf/afriwood.jpg","title":"AFRIWOOD SERIES"},
+
+{"description":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4265"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png","title":"AFROLAND TV"},
+
+{"description":"Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg","title":"AFROLAND 2"},
+
+{"description":"Romanza TV est une chaine des films et series pour votre divertissement","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTA5NzY3MDRf/romanza.jpeg","title":"ROMANZA"},
+
+{"description":"Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg","title":"MANJARO TV"},
+
+{"description":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sources":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","title":"BBC DRAMA TV"},
 
 {"description":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","sources":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","title":"POURIM TV"},
 
