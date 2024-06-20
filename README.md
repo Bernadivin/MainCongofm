@@ -47,6 +47,10 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://185.59.221.131:8081/live/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
+{"description":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","sources":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","title":"VOICI L'HOMME"},
+
+{"description":"Bostra TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","title":"BOSTRA TV"},
+
 {"description":"VOX Africa est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/voxafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjE3ODdf/voxafrica.png","title":"VOX AFRICA"},
 
 {"description":"LCA TV est une chaine privee","sources":["http://185.59.221.131:8081/live/lca/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjkzOTBf/lcatv.png","title":"LCA TV"},
