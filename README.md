@@ -17,6 +17,8 @@
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
 
+{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :","sources":["https://live-hls-qunv.livepush.io/live_cdn/emM81d0HeKNswEMw/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"}
+
 {"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 
 {"description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","sources":["https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RL PRO TV"},
