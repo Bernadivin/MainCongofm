@@ -19,7 +19,7 @@
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
 
-{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
+{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
 
 {"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 
