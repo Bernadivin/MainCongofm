@@ -19,15 +19,17 @@
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
 
+{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres...","sources":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","title":"NOVELAS TV 2"},
+
 {"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
 
 {"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 
 {"description":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sources":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","title":"MABOKE TV"},
 
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres...","sources":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","title":"NOVELAS TV 2"},
-
-{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
+{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE 2"},
 
 {"description":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","sources":["http://185.59.221.131:8081/live/digitalcongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","title":"DIGITAL CONGO"},
 
