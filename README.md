@@ -209,6 +209,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"SABC News ","sources":["http://185.59.221.131:8081/live/sabcnews/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg","title":"SABC NEWS"},
 
+{"description":"MZANZI Channel Africa","sources":["http://145.239.5.177:8080/277/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTU4NTc4MDRf/mzanzi.jfif","title":"M'ZANZI TV"},
+
 {"description":"eNews Channel Africa","sources":["http://185.59.221.131:8081/live/enca/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxNzA0Njdf/enca.jpeg","title":"ENCA TV"},
 
 {"description":"ITV est une télévision privee du guinee","sources":["http://185.59.221.131:8081/live/itv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzE1NDVf/itv.png","title":"ITV"},
