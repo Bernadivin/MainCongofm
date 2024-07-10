@@ -23,13 +23,11 @@
 
 {"description":"Trace Gospel est une chaîne télévisée religieuse qui diffuse la musique chrétienne Africaine et Internationale....","sources":["http://145.239.5.177:8080/206/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png","title":"TRACE GOSPEL"},
 
-{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
+{"description":"Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques congolaise, africaines rumba, ndombolo et international...","sources":["http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","title":"TRACE KITOKO"},
 
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres...","sources":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","title":"NOVELAS TV 2"},
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres...","sources":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","title":"NOVELAS TV 3"},
 
 {"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
-
-{"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 
 {"description":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sources":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","title":"MABOKE TV"},
 
@@ -45,7 +43,27 @@
 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
+{"description":"emci tv est une chaîne chrétienne pour l'évangile de Jésus Christ","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
+
+{"description":"Canal+ Pop est une chaine du groupe Canal+","sources":["http://185.59.221.131:8081/live/canalpop/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMzc3MTZf/canalpluspop.png","title":"CANAL+ POP"},
+
 {"description":"Serie Club","sources":["http://145.239.5.177:8080/355/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","title":"SERIE CLUB"},
+
+{"description":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","title":"AFRO MAGIC"},
+
+{"description":"AM ROK TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/133/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTc1MTNf/roktv.jfif","title":"ROK TV"},
+
+{"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
+
+{"description":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/215/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","title":"AM FAMILY"},
+
+{"description":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/216/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","title":"AM SHOWCASE"},
+
+{"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
+
+{"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
+
+{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
 
 {"description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","sources":["https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RL PRO TV"},
 
@@ -53,13 +71,7 @@
 
 {"description":"LBFD Radio Télévision est une chaîne généraliste pour tous.","sources":["https://helga.iptv2022.com/sh/LBFD_RTV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYxNjAwMTJf/lbfdtv.jpg","title":"LBFD RTV"},   
 
-{"description":"Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques congolaise, africaines rumba, ndombolo et international...","sources":["http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","title":"TRACE KITOKO"},
-
-{"description":"emci tv est une chaîne chrétienne pour l'évangile de Jésus Christ","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
-
 {"description":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","sources":["https://helga.iptv2022.com/sh/EGG_PRO_TV/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","title":"EGG PRO TV"},
-
-{"description":"Canal+ Pop est une chaine du groupe Canal+","sources":["http://185.59.221.131:8081/live/canalpop/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMzc3MTZf/canalpluspop.png","title":"CANAL+ POP"},
 
 {"description":"Be Blessed Média (Beb FM Et Beb TV) Est Un Projet Porté Par La Société Be Blessed Group, Entreprise De Droit Congolais Spécialisée Dans L’évènementiel, La Production Et La Diffusion Des Programmes De Radio Et Télévision, La Production Phonographique ; Qui Elle-Même À La Base Est Une Initiative Des Férus De La Culture Et Des Journalistes D’expérience Ayant Fait Leurs Preuves Dans La Mise En Œuvre Et La Gestion Des Médias Tant Publics Que Privés Au Congo. L’entreprise Est Implantée À Pointe-Noire, Dans L’arrondissement N°1 E.P.Lumumba, Au Numéro 138 De L’avenue Costaude Immeuble SCI ONANGA , Grand Marché Pointe-Noire.
 Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et africaine, se veut le miroir des populations du continent. Engagée et citoyenne, elle a pour vocation de contribuer à l’éducation des populations, d’impacter positivement la société congolaise et africaine, et de contribuer à la transformation des mentalités. Beb fm s'impose sur le marché comme « la reine du contenu local ». Notre identité : Une chaîne de Radio congolaise décomplexée, originale et positive. Beb fm propose une nouvelle expérience audiovisuelle aux téléspectateurs africains :la télévision sans filtre Une chaîne qui donne la possibilité à son public de parler librement, sans censure et sans tabou. Beb fm entend mettre, au cœur de sa démarche, des sujets qui concernent les populations, qui leur tiennent à cœur, et les traiter sans compromis ni compromission Le positionnement de la chaîne s’articule autour des mots-clés suivants : vraie, positive, engagée, moderne, connectée, drôle, populaire, originale, interactive.","sources":["https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BEB TV"},
