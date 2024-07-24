@@ -40,6 +40,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","sources":["http://185.59.221.131:8081/live/digitalcongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","title":"DIGITAL CONGO"},
 
+{"description":"DPK TV est une chaine de television....","sources":["https://helga.iptv2022.com/sh/DPK_Tv/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"DPK TV"},
+
 {"description":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","sources":["http://185.59.221.131:8081/live/tele50/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","title":"TELE 50"},
 
 {"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://185.59.221.131:8081/live/aforevo/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV"},
