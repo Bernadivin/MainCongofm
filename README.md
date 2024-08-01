@@ -34,6 +34,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
 
+{"description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","sources":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","title":"CITE DE DAVID"},
+
 {"description":"emci tv est une chaîne chrétienne pour l'évangile de Jésus Christ","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
 
 {"description":"Actu Ngolo TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","title":"ACTU NGOLO TV HD"},
