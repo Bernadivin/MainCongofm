@@ -38,6 +38,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 
 {"description":"Actu Ngolo TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","title":"ACTU NGOLO TV HD"},
 
+{"description":"DPK TV est une chaine de television....","sources":["https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg","title":"DPK TV"},
+
 {"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
  qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://amigofx.com:1936/championtv/championtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
 
@@ -46,8 +48,6 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 {"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
 
 {"description":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","sources":["http://185.59.221.131:8081/live/digitalcongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","title":"DIGITAL CONGO"},
-
-{"description":"DPK TV est une chaine de television....","sources":["https://helga.iptv2022.com/sh/DPK_Tv/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg","title":"DPK TV"},
 
 {"description":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","sources":["http://185.59.221.131:8081/live/tele50/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","title":"TELE 50"},
 
@@ -76,9 +76,6 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 {"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
 
 {"description":"Canal+ Pop est une chaine du groupe Canal+","sources":["http://185.59.221.131:8081/live/canalpop/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMzc3MTZf/canalpluspop.png","title":"CANAL+ POP"},
-
-{"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
- qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://neriyastreaming.ddns.net/memfs/b92b5d69-7f44-4ae8-a00a-40d70623b1e6.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
 
 {"description":"Serie Club","sources":["http://145.239.5.177:8080/355/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","title":"SERIE CLUB"},
 
