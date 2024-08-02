@@ -45,6 +45,8 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
 {"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
  qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://amigofx.com:1936/championtv/championtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
 
+ {"description":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sources":["https://amigofx.com:1936/ayatv/ayatv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","title":"AYA TV"},
+
 {"description":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sources":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","title":"MABOKE TV"},
 
 {"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
