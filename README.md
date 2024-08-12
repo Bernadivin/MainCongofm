@@ -48,6 +48,11 @@
 
 {"description":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sources":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","title":"MABOKE TV"},
 
+
+{"description":"Tata TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/tata-tv/tata-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNDk5MzJf/Tata.jpg","title":"TATA TV"},
+
+{"description":"Tata TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv/espoir-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"TATA TV"},
+
 {"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
 
 {"description":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","sources":["http://185.59.221.131:8081/live/digitalcongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","title":"DIGITAL CONGO"},
