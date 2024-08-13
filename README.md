@@ -37,6 +37,8 @@
 
 {"description":"emci tv est une chaîne chrétienne pour l'évangile de Jésus Christ","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
 
+{"description":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sources":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","title":"JKM CHURCH"},
+
 {"description":"Actu Ngolo TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","title":"ACTU NGOLO TV HD"},
 
 {"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
