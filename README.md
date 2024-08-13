@@ -13,7 +13,7 @@
 
 {"description":"DPK TV est une chaine de television....","sources":["https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg","title":"DPK TV"},
 
-{"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5NzUwMzJf/cbcTv.jpg","title":"CBC TV"},
+{"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg","title":"CBC TV"},
 
 {"description":"Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg","title":"CONGO TV"},
 
