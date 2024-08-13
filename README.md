@@ -9,11 +9,15 @@
 
 {"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres...","sources":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","title":"NOVELAS TV"},
 
+{"description":"Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
+
+{"description":"DPK TV est une chaine de television....","sources":["https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg","title":"DPK TV"},
+
+{"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5NzUwMzJf/cbcTv.jpg","title":"CBC TV"},
+
 {"description":"Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg","title":"CONGO TV"},
 
 {"description":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","sources":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","title":"HOPE TV EXTRA"},
-
-{"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5NzUwMzJf/cbcTv.jpg","title":"CBC TV"},
 
 {"description":"Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com","sources":["https://helga.iptv2022.com/sh/Ev-TELE/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","title":"EV TELE"},
 
@@ -31,13 +35,9 @@
 
 {"description":"Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques congolaise, africaines rumba, ndombolo et international...","sources":["http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","title":"TRACE KITOKO"},
 
-{"description":"Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
-
 {"description":"emci tv est une chaîne chrétienne pour l'évangile de Jésus Christ","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
 
 {"description":"Actu Ngolo TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","title":"ACTU NGOLO TV HD"},
-
-{"description":"DPK TV est une chaine de television....","sources":["https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg","title":"DPK TV"},
 
 {"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
  qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://amigofx.com:1936/championtv/championtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
