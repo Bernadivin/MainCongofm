@@ -3,7 +3,7 @@
 
 {"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
 
-{"description":"NINA NOVELAS est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres... pour votre divertissement","sources":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","title":"NINA NOVELAS"},
+{"description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com","sources":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","title":"CITE DE DAVID"},
 
 {"description":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sources":["https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg","title":"PASSION NOVELAS"},
 
@@ -28,6 +28,13 @@
 {"description":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","sources":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","title":"ONE TV"},
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
+
+{"description":"Spiritas TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/spiritas-tv/spiritas-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg","title":"SPIRITAS TV"},
+
+{"description":"Ticia TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/congopanique-tv/congopanique-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg","title":"TICIA TV"},
+
+{"description":"Congo Panique TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/ticia-tv/ticia-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0NTZf/congopanique.jpg","title":"CONGO PANIQUE"},
+
 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
@@ -82,8 +89,6 @@
 {"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
 
 {"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
-
-{"description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com","sources":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","title":"CITE DE DAVID"},
 
 {"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
 
@@ -159,6 +164,9 @@ Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et 
  {"description":"Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg","title":"SERIE FANTATISQUE"},
 
  {"description":"Savane TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/savanetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjI1NTNf/savane.png","title":"SAVANE TV"},
+
+ {"description":"NINA NOVELAS est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres... pour votre divertissement","sources":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","title":"NINA NOVELAS"},
+
 
  {"description":"Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg","title":"SERIES NOVELAS"},
 
