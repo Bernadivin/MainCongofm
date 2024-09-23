@@ -29,13 +29,12 @@
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
 
-{"description":"Spiritas TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/spiritas-tv/spiritas-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg","title":"SPIRITAS TV"},
+ {"description":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sources":["https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","title":"AYA TV"},
 
-{"description":"Ticia TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/congopanique-tv/congopanique-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg","title":"TICIA TV"},
+ {"description":"A+ IVOIRE TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sources":["http://69.64.57.208/atv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE1NzU3MThf/AplusIvoire.jpeg","title":"A+ IVOIRE"},
 
-{"description":"Congo Panique TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/ticia-tv/ticia-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0NTZf/congopanique.jpg","title":"CONGO PANIQUE"},
-
-
+{"description":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","title":"AFRO MAGIC"},
+ 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
 {"description":"Trace Gospel est une chaîne télévisée religieuse qui diffuse la musique chrétienne Africaine et Internationale....","sources":["http://145.239.5.177:8080/206/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png","title":"TRACE GOSPEL"},
@@ -50,8 +49,6 @@
 
 {"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
  qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://amigofx.com:1936/championtv/championtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
-
- {"description":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sources":["https://amigofx.com:1936/ayatv/ayatv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","title":"AYA TV"},
 
 {"description":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sources":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","title":"MABOKE TV"},
 
@@ -73,12 +70,13 @@
 
 {"description":"A+ TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sources":["http://185.59.221.131:8081/live/aplus/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE1NzU3MTZf/aplus.jpeg","title":"A+ TV"},
 
-{"description":"A+ IVOIRE TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sources":["http://69.64.57.208/atv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE1NzU3MThf/AplusIvoire.jpeg","title":"A+ IVOIRE"},
-
-
-{"description":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","title":"AFRO MAGIC"},
-
 {"description":"AM ROK TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/133/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTc1MTNf/roktv.jfif","title":"ROK TV"},
+
+{"description":"Spiritas TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/spiritas-tv/spiritas-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg","title":"SPIRITAS TV"},
+
+{"description":"Ticia TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/congopanique-tv/congopanique-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg","title":"TICIA TV"},
+
+{"description":"Congo Panique TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/ticia-tv/ticia-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0NTZf/congopanique.jpg","title":"CONGO PANIQUE"},
 
 {"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
 
