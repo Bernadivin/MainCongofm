@@ -11,9 +11,13 @@
 
 {"description":"Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
 
+{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
+
 {"description":"DPK TV est une chaine de television....","sources":["https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg","title":"DPK TV"},
 
 {"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg","title":"CBC TV"},
+
+ {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
 {"description":"Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg","title":"CONGO TV"},
 
@@ -28,8 +32,6 @@
 {"description":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","sources":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","title":"ONE TV"},
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
-
-{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
 
 {"description":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sources":["https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","title":"AYA TV"}, 
 
