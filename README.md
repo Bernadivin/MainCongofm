@@ -3,6 +3,16 @@
 
 {"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
 
+{
+          "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
+          "sources": [
+            "https://stream.berosat.live:19360/gosel-channel/gospel-channel.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
+          "title": "GOSPEL CHANNEL"
+        },
+
 {"description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com","sources":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","title":"CITE DE DAVID"},
 
 {"description":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sources":["https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg","title":"PASSION NOVELAS"},
