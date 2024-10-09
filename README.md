@@ -6,7 +6,7 @@
 {
           "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
           "sources": [
-            "https://stream.berosat.live:19360/gosel-channel/gospel-channel.m3u8"
+            "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8"
           ],
           "subtitle": "All Channels",
           "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
