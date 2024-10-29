@@ -37,8 +37,6 @@
 
 {"description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","sources":["https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RL PRO TV"},
 
-{"description":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","sources":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","title":"HOPE TV EXTRA"},
-
 {"description":"Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com","sources":["https://helga.iptv2022.com/sh/Ev-TELE/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","title":"EV TELE"},
 
 {"description":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","sources":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","title":"ONE TV"},
@@ -53,68 +51,12 @@
  
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
-{"description":"Trace Gospel est une chaîne télévisée religieuse qui diffuse la musique chrétienne Africaine et Internationale....","sources":["http://145.239.5.177:8080/206/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png","title":"TRACE GOSPEL"},
-
-{"description":"Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques congolaise, africaines rumba, ndombolo et international...","sources":["http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","title":"TRACE KITOKO"},
-
-{"description":"emci tv est une chaîne chrétienne pour l'évangile de Jésus Christ","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
-
-{"description":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sources":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","title":"JKM CHURCH"},
-
 {"description":"Actu Ngolo TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","title":"ACTU NGOLO TV HD"},
 
 {"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
  qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://amigofx.com:1936/championtv/championtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
 
-{"description":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sources":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","title":"MABOKE TV"},
-
-{"description":"Tata TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/tata-tv/tata-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNDk5MzJf/Tata.jpg","title":"TATA TV"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/149/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 2"},
-
-{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
-
-{"description":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","sources":["http://185.59.221.131:8081/live/digitalcongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","title":"DIGITAL CONGO"},
-
-{"description":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","sources":["http://185.59.221.131:8081/live/tele50/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","title":"TELE 50"},
-
-{"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://185.59.221.131:8081/live/rtnc/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
-
-{"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://185.59.221.131:8081/live/aforevo/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV"},
-
-{"description":"A+ TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sources":["http://185.59.221.131:8081/live/aplus/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE1NzU3MTZf/aplus.jpeg","title":"A+ TV"},
-
-{"description":"AM ROK TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/133/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTc1MTNf/roktv.jfif","title":"ROK TV"},
-
-{"description":"Spiritas TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/spiritas-tv/spiritas-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg","title":"SPIRITAS TV"},
-
-{"description":"Ticia TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/congopanique-tv/congopanique-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg","title":"TICIA TV"},
-
-{"description":"Congo Panique TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/ticia-tv/ticia-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0NTZf/congopanique.jpg","title":"CONGO PANIQUE"},
-
-{"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
-
-{"description":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/215/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","title":"AM FAMILY"},
-
-{"description":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/216/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","title":"AM SHOWCASE"},
-
-{"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
-
-{"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
-
-{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
-
-{"description":"Canal+ Pop est une chaine du groupe Canal+","sources":["http://185.59.221.131:8081/live/canalpop/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMzc3MTZf/canalpluspop.png","title":"CANAL+ POP"},
-
-{"description":"Serie Club","sources":["http://145.239.5.177:8080/355/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","title":"SERIE CLUB"},
-
-{"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/141/index.m3u"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV 2"},
-
-{"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/148/index.m3u"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV 3"},
-
-{"description":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","title":"STAR+ NOVELAS"},
-
-{"description":"LBFD Radio Télévision est une chaîne généraliste pour tous.","sources":["https://helga.iptv2022.com/sh/LBFD_RTV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYxNjAwMTJf/lbfdtv.jpg","title":"LBFD RTV"},   
+{"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://69.64.57.208/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
 {"description":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","sources":["https://helga.iptv2022.com/sh/EGG_PRO_TV/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","title":"EGG PRO TV"},
 
@@ -126,58 +68,15 @@
 
 {"description":"Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg","title":"TELE NOVELAS"},
 
-{"description":"Tele Congo est une chaine national de la Republique du Congo.","sources":["http://185.59.221.131:8081/live/telecongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg","title":"TELE CONGO"},
-
-{"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://69.64.57.208/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
+{"description":"Tele Congo est une chaine national de la Republique du Congo.","sources":["http://69.64.57.208/telecongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg","title":"TELE CONGO"},
 
 {"description":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","sources":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","title":"VOICI L'HOMME"},
 
 {"description":"Bostra TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","title":"BOSTRA TV"},
 
-{"description":"VOX Africa est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/voxafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjE3ODdf/voxafrica.png","title":"VOX AFRICA"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
-
-{"description":"LCA TV est une chaine privee","sources":["http://185.59.221.131:8081/live/lca/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjkzOTBf/lcatv.png","title":"LCA TV"},
-
 {"description":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","sources":["https://helga.iptv2022.com/sh/VERITE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","title":"VERITE TV"},
 
-{"description":"Sunu Yeuf TV est une chaine televisee qui diffuse que des theatres, films et series Africains pour votre divertissement","sources":["http://185.59.221.131:8081/live/sunuyeuf/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMTk5ODZf/sunuyeuf.jpg","title":"SUNU YUEF"},
-
-{"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","title":"BAZIK RUMBA TV"},
-
-{"description":"3 TV est une chaine privee","sources":["http://185.59.221.131:8081/live/3tv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzA4ODRf/3tv.jpeg","title":"3 TV"},
-
-{"description":"Tele Africa est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/teleafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjExNjRf/teeafrica.png","title":"TELE AFRICA"},
-
-{"description":"Teen Serie TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04b531-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af7e8ed7-6977-4fd3-ad9f-89d89e958736&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NzEyNTFf/teenSerie.jpg","title":"TEEN SERIE"},
-
-{"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png","title":"BAZIK TV"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/132/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 5"},
-
-{"description":"Life TV est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/lifetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjIxMjdf/lifetv.png","title":"LIFE TV"},
-
-{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
-
-{"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["https://helga.iptv2022.com/sh/GE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
-
-{"description":"Yanga Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com.","sources":["https://helga.iptv2022.com/Yanga_TV/index.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LndlYiJ9"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDQyMTk5NzNf/yanga.jpg","title":"YANGA TV"}, 
-
-{"description":"Star Life TV est une chaine televisee qui diffuse que des theatres, films et series Indiens pour votre divertissement","sources":["http://185.59.221.131:8081/live/starlife/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxMzI2Njhf/starlifetv.jpg","title":"STAR LIFE"},
-
- {"description":"RCV TV","sources":["https://helga.iptv2022.com/sh/RCV_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNzg5Mzdf/rcvtv.jpg","title":"RCV TV"},
-
- {"description":"Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg","title":"SERIE FANTATISQUE"},
-
- {"description":"Savane TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/savanetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjI1NTNf/savane.png","title":"SAVANE TV"},
-
- {"description":"NINA NOVELAS est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres... pour votre divertissement","sources":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","title":"NINA NOVELAS"},
-
-
- {"description":"Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg","title":"SERIES NOVELAS"},
-
- {"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://51.254.199.122:8080/N0llyW00dTV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV"},
+ {"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://69.64.57.208/aforevo/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV"},
 
 {"description":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","title":"AFRO MAGIC"},
 
@@ -203,6 +102,14 @@
 
 {"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 2"},
 
+{"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","title":"BAZIK RUMBA TV"},
+
+{"description":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","sources":["https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png","title":"BAZIK TV"},
+
+{"description":"Yanga Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com.","sources":["https://helga.iptv2022.com/Yanga_TV/index.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LndlYiJ9"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDQyMTk5NzNf/yanga.jpg","title":"YANGA TV"},
+
+{"description":"Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg","title":"SERIE FANTATISQUE"},
+
 {"description":"Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg","title":"MANJARO TV"},
 
 {"description":"bbc drama est une chaine de divertissement, des films et series pour votre divertissement","sources":["https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png","title":"BBC DRAMA TV"},
@@ -211,29 +118,15 @@
 
 {"description":"KKTV Angola est une chaîne de télévision basée au Angola.","sources":["https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg","title":"KKTV ANGOLA"},
 
-{"description":"Renouveau tv est une chaîne thematiquest","sources":["http://185.59.221.131:8081/live/renouveautv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMzIxODRf/renouveau.jpg","title":"RENOUVEAU TV"},
+{"description":"Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg","title":"VISION 4"},
 
 {"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"},
 
-{"description":"Music Télévision est une chaîne specialisee en musique international","sources":["http://185.59.221.131:8081/live/mtv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ1MjBf/Musictv.png","title":"MUSIC TV"},   
-
-{"description":"7 infos est une francaise d'informations international et autres.","sources":["http://185.59.221.131:8081/live/7infos/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzQ2MjNf/septInfos.png","title":"7 INFOS"},
-
- {"description":"Djoma TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/djomatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxMjc2MjRf/djoma.jpeg","title":"DJOMA TV"},
-
-{"description":"Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg","title":"VISION 4"},
-
 {"description":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sources":["https://stream.it-innov.com/misec/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"MISEC TV"},
 
- {"description":"LTM TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/ltm/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjMyNzRf/ltm.jpeg","title":"LTM TV"},
+{"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["https://helga.iptv2022.com/sh/GE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
 
 {"description":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sources":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","title":"CTV AFRICA"},
-
-{"description":"Canal Woyla TV est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone","sources":["http://41.223.30.44:1935/Canalwoyla/canalwoyla/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzk4NjUyNTJf/IMG-20240320-WA0729.jpg","title":"CANAL WOYLA"},
-
-{"description":"CISTV est une télévision privee du guinee","sources":["http://185.59.221.131:8081/live/cistv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMTkwNzVf/cistv.jpeg","title":"CISTV"},
-
-{"description":"Télévision 7 est une chaîne generaliste","sources":["http://185.59.221.131:8081/live/tv7/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ5OTZf/tv7.jpg","title":"TV 7"},   
 
 {"description":"Canal 2 International est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone","sources":["http://69.64.57.208/canal2international/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg","title":"CANAL 2 INTERNATIONAL"},
 
@@ -264,8 +157,6 @@
 {"description":"LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://69.64.57.208/la3/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMjE5NTFf/la3.jpg","title":"LA 3"},
 
 {"description":"Business 24 TV est une chaîne privée ivoirienne","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODcwMzU5OTVf/business.jpg","title":"BUSINESS 24 TV"},
-
-{"description":"Joliba News est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/jolibatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjYwMDZf/joliba.jpg","title":"JOLIBA NEWS"},
 
 {"description":"Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sources":["https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png","title":"IVOIRE TV"},
 
@@ -307,11 +198,93 @@
 
 {"description":"Salt TV is a Christian television channel station from Uganda. Salt TV is based in Kampala. Matthew 5:13-16 (NKJV) Believers Are Salt and Light 13 You are the salt of the earth, but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.","sources":["https://readymedia.moderntv.cloud:8092/distribute/readymedia/SALTTV_stream_13/5-20-hls/live.m3u8"],"subtitle":"All Channels","thumb":"https://www.saltmedia.ug/images/NOV/SALT-TV.jpg","title":"Salt TV"},
 
+{"description":"LBFD Radio Télévision est une chaîne généraliste pour tous.","sources":["https://helga.iptv2022.com/sh/LBFD_RTV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYxNjAwMTJf/lbfdtv.jpg","title":"LBFD RTV"},   
+
+{"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste  dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["http://139.162.176.133:8080/hls/stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
+
+{"description":"RCV TV","sources":["https://helga.iptv2022.com/sh/RCV_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNzg5Mzdf/rcvtv.jpg","title":"RCV TV"},
+
 {"description":"Dream TV est une chaine privee en Uganda.","sources":["https://readymedia.moderntv.cloud:8092/distribute/readymedia/DREAMTV_stream_43/5-20-hls/live.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODYxNjEzNzlf/dreamuganda.png","title":"DREAM TV"},
+
+{"description":"Fort TV est une chaine privee en Uganda.","sources":["http://fort.co-works.org:8080/hls/live.stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","title":"FORT TV"}]}]}
+
+
+bero fm
+http://stream.zeno.fm/eyuiqh60p1qtv
+
+
+
+
+
+
+{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
+
+{"description":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","sources":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","title":"HOPE TV EXTRA"},
+
+{"description":"Trace Gospel est une chaîne télévisée religieuse qui diffuse la musique chrétienne Africaine et Internationale....","sources":["http://145.239.5.177:8080/206/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png","title":"TRACE GOSPEL"},
+
+{"description":"Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques congolaise, africaines rumba, ndombolo et international...","sources":["http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","title":"TRACE KITOKO"},
 
 {"description":"KALAC TV est une chaine privee en Uganda.","sources":["http://185.59.221.131:8081/live/kalactv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjY1OTNf/kalac.png","title":"KALAC TV"},
 
-{"description":"Fort TV est une chaine privee en Uganda.","sources":["http://fort.co-works.org:8080/hls/live.stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODM2MDg1MjFf/fort.jpg","title":"FORT TV"},
+{"description":"Joliba News est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/jolibatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjYwMDZf/joliba.jpg","title":"JOLIBA NEWS"},
+
+{"description":"emci tv est une chaîne chrétienne pour l'évangile de Jésus Christ","sources":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","title":"EMCI TV"},
+
+{"description":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier..","sources":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","title":"JKM CHURCH"},
+
+
+{"description":"Maboke TV est une chaine televisee qui diffuse que des theatres congolais, films et series Africains pour votre divertissement","sources":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","title":"MABOKE TV"},
+
+{"description":"Tata TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/tata-tv/tata-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNDk5MzJf/Tata.jpg","title":"TATA TV"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/149/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 2"},
+
+{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
+
+{"description":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","sources":["http://185.59.221.131:8081/live/digitalcongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","title":"DIGITAL CONGO"},
+
+{"description":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","sources":["http://185.59.221.131:8081/live/tele50/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","title":"TELE 50"},
+
+{"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://185.59.221.131:8081/live/aforevo/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV"},
+
+{"description":"A+ TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sources":["http://185.59.221.131:8081/live/aplus/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE1NzU3MTZf/aplus.jpeg","title":"A+ TV"},
+
+{"description":"AM ROK TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/133/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTc1MTNf/roktv.jfif","title":"ROK TV"},
+
+{"description":"Spiritas TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/spiritas-tv/spiritas-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0Mjhf/spiritas.jpg","title":"SPIRITAS TV"},
+
+{"description":"Ticia TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/congopanique-tv/congopanique-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0MDZf/ticia.jpg","title":"TICIA TV"},
+
+{"description":"Congo Panique TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/ticia-tv/ticia-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0NTZf/congopanique.jpg","title":"CONGO PANIQUE"},
+
+{"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
+
+{"description":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/215/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","title":"AM FAMILY"},
+
+{"description":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/216/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","title":"AM SHOWCASE"},
+
+{"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
+
+{"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
+
+{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
+
+{"description":"Canal+ Pop est une chaine du groupe Canal+","sources":["http://185.59.221.131:8081/live/canalpop/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMzc3MTZf/canalpluspop.png","title":"CANAL+ POP"},
+
+{"description":"Serie Club","sources":["http://145.239.5.177:8080/355/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODk0MDk1NzVf/serieClub.jpeg","title":"SERIE CLUB"},
+
+{"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/141/index.m3u"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV 2"},
+
+{"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/148/index.m3u"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV 3"},
+
+{"description":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","title":"STAR+ NOVELAS"},
+
+{"description":"VOX Africa est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/voxafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjE3ODdf/voxafrica.png","title":"VOX AFRICA"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
+
+{"description":"LCA TV est une chaine privee","sources":["http://185.59.221.131:8081/live/lca/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjkzOTBf/lcatv.png","title":"LCA TV"},
 
 {"description":"CRTV est une chaine national du cameroune","sources":["http://185.59.221.131:8081/live/crtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjg4OTdf/crtv.png","title":"CRTV"},
 
@@ -325,13 +298,44 @@
 
 {"description":"Dounia TV est une chaine chretienne","sources":["http://185.59.221.131:8081/live/douniatv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzc2OTNf/dounia.png","title":"DOUNIA TV"},
 
-{"description":"KTO TV est une chaine chretienne","sources":["http://185.59.221.131:8081/live/kto/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzgxNTVf/ktotv.png","title":"KTO TV"}]}]}
+{"description":"KTO TV est une chaine chretienne","sources":["http://185.59.221.131:8081/live/kto/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzgxNTVf/ktotv.png","title":"KTO TV"}
+
+{"description":"Sunu Yeuf TV est une chaine televisee qui diffuse que des theatres, films et series Africains pour votre divertissement","sources":["http://185.59.221.131:8081/live/sunuyeuf/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMTk5ODZf/sunuyeuf.jpg","title":"SUNU YUEF"},
+
+{"description":"3 TV est une chaine privee","sources":["http://185.59.221.131:8081/live/3tv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzA4ODRf/3tv.jpeg","title":"3 TV"},
+
+{"description":"Star Life TV est une chaine televisee qui diffuse que des theatres, films et series Indiens pour votre divertissement","sources":["http://185.59.221.131:8081/live/starlife/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxMzI2Njhf/starlifetv.jpg","title":"STAR LIFE"},
+
+ {"description":"Savane TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/savanetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjI1NTNf/savane.png","title":"SAVANE TV"},
+
+ {"description":"NINA NOVELAS est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres... pour votre divertissement","sources":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","title":"NINA NOVELAS"},
 
 
-bero fm
-http://stream.zeno.fm/eyuiqh60p1qtv
-
-{"description":"WANGU TV est une généraliste  qui diffuse que des des informations, musiques et autres chritienne....","sources":["https://stream.berosat.live:19360/wangu-tv-stream/wangu-tv-stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjA5NDk5MjBf/wangu.jpg","title":"WANGU TV"},
+ {"description":"Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg","title":"SERIES NOVELAS"},
 
 
-{"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste  dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["http://139.162.176.133:8080/hls/stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
+{"description":"Renouveau tv est une chaîne thematiquest","sources":["http://185.59.221.131:8081/live/renouveautv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMzIxODRf/renouveau.jpg","title":"RENOUVEAU TV"},
+
+{"description":"Music Télévision est une chaîne specialisee en musique international","sources":["http://185.59.221.131:8081/live/mtv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ1MjBf/Musictv.png","title":"MUSIC TV"},   
+
+{"description":"7 infos est une francaise d'informations international et autres.","sources":["http://185.59.221.131:8081/live/7infos/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzQ2MjNf/septInfos.png","title":"7 INFOS"},
+
+ {"description":"Djoma TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/djomatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxMjc2MjRf/djoma.jpeg","title":"DJOMA TV"},
+
+ {"description":"LTM TV est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/ltm/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjMyNzRf/ltm.jpeg","title":"LTM TV"},
+
+{"description":"Tele Africa est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/teleafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjExNjRf/teeafrica.png","title":"TELE AFRICA"},
+
+{"description":"Teen Serie TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04b531-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af7e8ed7-6977-4fd3-ad9f-89d89e958736&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NzEyNTFf/teenSerie.jpg","title":"TEEN SERIE"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/132/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 5"},
+
+{"description":"Life TV est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/lifetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjIxMjdf/lifetv.png","title":"LIFE TV"},
+
+{"description":"Canal Woyla TV est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone","sources":["http://41.223.30.44:1935/Canalwoyla/canalwoyla/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzk4NjUyNTJf/IMG-20240320-WA0729.jpg","title":"CANAL WOYLA"},
+
+{"description":"CISTV est une télévision privee du guinee","sources":["http://185.59.221.131:8081/live/cistv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMTkwNzVf/cistv.jpeg","title":"CISTV"},
+
+{"description":"Télévision 7 est une chaîne generaliste","sources":["http://185.59.221.131:8081/live/tv7/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ5OTZf/tv7.jpg","title":"TV 7"}, 
+
+{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
