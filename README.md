@@ -12,6 +12,7 @@
           "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
           "title": "GOSPEL CHANNEL"
         },
+        {"description":"VEP TV est une chaine de télévision chretienne....","sources":["https://stream.berosat.live:19360/vep-tv/vep-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
 
 {"description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com","sources":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","title":"CITE DE DAVID"},
 
@@ -34,8 +35,6 @@
 {"description":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sources":["https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","title":"METANOIA TV"},
 
 {"description":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","sources":["http://51.254.199.122:8080/bossbrothersTV/index.m3u8"],"subtitle":"All Channels","thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","title":"BOSS BROTHER"},
-
-{"description":"VEP TV est une chaine de télévision chretienne....","sources":["https://stream.berosat.live:19360/epsy-tv/epsy-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
 
 {"description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","sources":["https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RL PRO TV"},
 
