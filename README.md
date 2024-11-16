@@ -1,7 +1,5 @@
 # MainCongofm
-{"categories":[{"name":"Movies","videos":[{"description":"Radio Télé Silo est une chaîne chrétienne","sources":["https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg","title":"RADIO TÉLÉ SILO"},
-
-{"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
+{"categories":[{"name":"Movies","videos":[{"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
 
 {
           "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
@@ -12,10 +10,11 @@
           "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
           "title": "GOSPEL CHANNEL"
         },
-        { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" }, { "description": "RTV CBCO Télévision est la première chaine Chretienne Methodiste en République du Congo.", "sources": [ "https://stream.berosat.live:19360/cbco-tv/cbco-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg", "title": "RTV CBCO" }, 
-        {"description":"VEP TV est une chaine de télévision chretienne....","sources":["https://stream.berosat.live:19360/vep-tv/vep-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
+        { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
+        
+{ "description": "RTV CBCO Télévision est la première chaine Chretienne Methodiste en République du Congo.", "sources": [ "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg", "title": "RTV CBCO" },
 
-{"description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com","sources":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","title":"CITE DE DAVID"},
+{ "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "title": "TOP NOVELAS" },
 
 {"description":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sources":["https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg","title":"PASSION NOVELAS"},
 
@@ -31,13 +30,17 @@
 
  {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
-{"description":"Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg","title":"CONGO TV"},
+{"description":"Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzAzMTYxNzZf/berologos.jpg","title":"BERO TV"},
 
 {"description":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sources":["https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","title":"METANOIA TV"},
 
 {"description":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","sources":["http://51.254.199.122:8080/bossbrothersTV/index.m3u8"],"subtitle":"All Channels","thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","title":"BOSS BROTHER"},
 
 {"description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","sources":["https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RL PRO TV"},
+
+{"description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com","sources":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","title":"CITE DE DAVID"},
+
+{"description":"Radio Télé Silo est une chaîne chrétienne","sources":["https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg","title":"RADIO TÉLÉ SILO"},
 
 {"description":"Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com","sources":["https://helga.iptv2022.com/sh/Ev-TELE/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","title":"EV TELE"},
 
@@ -89,6 +92,8 @@
 {"description":"Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","title":"NOVELAS 3"},
 
 {"description":"MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili......","sources":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","title":"MADI TV"},
+
+{"description":"VEP TV est une chaine de télévision chretienne....","sources":["https://stream.berosat.live:19360/vep-tv/vep-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
 
 {"description":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili.","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","title":"BONGO TV"},
 
