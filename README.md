@@ -48,7 +48,7 @@
 
 {"description":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","sources":["https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","title":"ONE TV"},
 
-{ "description": "RTV CBCO Télévision est la première chaine Chretienne Baptistes en République du Congo.", "sources": [ "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg", "title": "RTV CBCO" }, 
+{"description": "Nollywood tv est une chaine des cinemas africains","sources":["https://stream.berosat.live:19360/nollywood-tv/nollywood-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD"}, 
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
 
