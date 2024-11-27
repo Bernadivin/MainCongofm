@@ -30,7 +30,7 @@
           "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
           ],
           "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzM0MTEyMjRf/SMedia.jpg",
+          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIA TV 3"
 },
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
@@ -42,6 +42,8 @@
 {"description":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","sources":["https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RL PRO TV"},
 
 { "description": "Vengeance Télévision chaine privée en République du Congo.", "sources": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "title": "VENGEANCE-TV" },
+
+{ "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg", "title": "CODIR TV" },
 
 {"description":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sources":["https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","title":"METANOIA TV"},
 
