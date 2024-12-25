@@ -1,5 +1,5 @@
 # MainCongofm
-{"categories":[{"name":"Movies","videos":[{ "description": "Gospel Agency TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources": [ "https://stream.berosat.live:19360/gospel-agency/gospel-agency.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
+{"categories":[{"name":"Movies","videos":[{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
 {"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
 {
           "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
@@ -12,8 +12,6 @@
         },
         { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
         { "description": "Mongala Télévision est la première chaine thematique en République du Congo.", "sources": [ "https://stream.berosat.live:19360/mongala-tv/mongala-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg", "title": "MONGALA TV" },
-        
-{ "description": "RTV CBCO Télévision est la première chaine Chretienne Methodiste en République du Congo.", "sources": [ "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5OTUzNzJf/cbco.jpg", "title": "RTV CBCO" },
 
 { "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "title": "TOP NOVELAS" },
 
@@ -38,6 +36,8 @@
 {"description":"Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
 
 {"description":"Be Blessed Média (Beb FM Et Beb TV) Est Un Projet Porté Par La Société Be Blessed Group, Entreprise De Droit Congolais Spécialisée Dans L’évènementiel, La Production Et La Diffusion Des Programmes De Radio Et Télévision, La Production Phonographique ; Qui Elle-Même À La Base Est Une Initiative Des Férus De La Culture Et Des Journalistes D’expérience Ayant Fait Leurs Preuves Dans La Mise En Œuvre Et La Gestion Des Médias Tant Publics Que Privés Au Congo. L’entreprise Est Implantée À Pointe-Noire, Dans L’arrondissement N°1 E.P.Lumumba, Au Numéro 138 De L’avenue Costaude Immeuble SCI ONANGA , Grand Marché Pointe-Noire. Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et africaine, se veut le miroir des populations du continent. Engagée et citoyenne, elle a pour vocation de contribuer à l’éducation des populations, d’impacter positivement la société congolaise et africaine, et de contribuer à la transformation des mentalités. Beb fm s'impose sur le marché comme « la reine du contenu local ». Notre identité : Une chaîne de Radio congolaise décomplexée, originale et positive. Beb fm propose une nouvelle expérience audiovisuelle aux téléspectateurs africains :la télévision sans filtre Une chaîne qui donne la possibilité à son public de parler librement, sans censure et sans tabou. Beb fm entend mettre, au cœur de sa démarche, des sujets qui concernent les populations, qui leur tiennent à cœur, et les traiter sans compromis ni compromission Le positionnement de la chaîne s’articule autour des mots-clés suivants : vraie, positive, engagée, moderne, connectée, drôle, populaire, originale, interactive.","sources":["https://stream.berosat.live:19360/beb-tv/beb-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BEB TV"},
+
+{ "description": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg", "title": "CODIR TV" }, 
 
 {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
 
@@ -119,8 +119,6 @@
 {"description":"Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjg3MDAwMjJf/nova.jpg","title":"NOVELAS 3"},
 
 {"description":"MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili......","sources":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","title":"MADI TV"},
-
-{"description":"VEP TV est une chaine de télévision chretienne....","sources":["https://stream.berosat.live:19360/vep-tv/vep-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
 
 {"description":"Bongo TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili.","sources":["https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYwMDA2Nzhf/bongo.jpg","title":"BONGO TV"},
 
@@ -254,7 +252,8 @@ http://stream.zeno.fm/eyuiqh60p1qtv
 
 {"description":"DPK TV est une chaine de television....","sources":["https://stream.berosat.live:19360/dpk-tv/dpk-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg","title":"DPK TV"},
 
-{"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg","title":"CBC TV"},
+{"description":"VEP TV est une chaine de télévision chretienne....","sources":["https://stream.berosat.live:19360/vep-tv/vep-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjMxMzQzNzhf/EPSY.jpg","title":"VEP TV"},
+
 
 {"description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com","sources":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","title":"CITE DE DAVID"},
 
@@ -381,4 +380,6 @@ http://stream.zeno.fm/eyuiqh60p1qtv
 
 {"description":"Télévision 7 est une chaîne generaliste","sources":["http://185.59.221.131:8081/live/tv7/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjQ5OTZf/tv7.jpg","title":"TV 7"}, 
 
-{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
+{ "description": "Gospel Agency TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources": [ "https://stream.berosat.live:19360/gospel-agency/gospel-agency.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY1MTkxNjJf/GospelAgency.jpg", "title": "GOSPEL AGENCY TV" }, 
+
+
