@@ -1,5 +1,18 @@
 # MainCongofm
-{"categories":[{"name":"Movies","videos":[{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
+{"categories":[{"name":"Movies","videos":[{ "description": "Vengeance Télévision, la Chaîne Mystique.", "sources": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "title": "VENGEANCE-TV" },
+
+{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
+
+{
+    "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
+      "sources": [
+          "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
+          "title": "S-MEDIA TV 3"
+},
+
 {"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
 {
           "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
@@ -14,16 +27,6 @@
         { "description": "Mongala Télévision est la première chaine thematique en République du Congo.", "sources": [ "https://stream.berosat.live:19360/mongala-tv/mongala-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg", "title": "MONGALA TV" },
 
 { "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "title": "TOP NOVELAS" },
-
-{
-    "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
-      "sources": [
-          "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
-          ],
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
-          "title": "S-MEDIA TV 3"
-},
 
 {"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg","title":"CBC TV"},
 
@@ -45,9 +48,11 @@
 
 {"description":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","sources":["http://51.254.199.122:8080/bossbrothersTV/index.m3u8"],"subtitle":"All Channels","thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","title":"BOSS BROTHER"},
 
- {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
+{"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
+ qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
 
-{ "description": "Vengeance Télévision, la Chaîne Mystique.", "sources": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "title": "VENGEANCE-TV" },
+
+ {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
 
 { "description": "LULI+ TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources": [ "https://stream.berosat.live:19360/luli-plus/luli-plus.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzQ4NzczMDhf/luliplustv.jpg", "title": "LULI+ TV" },
 
@@ -88,9 +93,6 @@
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
 {"description":"Actu Ngolo TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","title":"ACTU NGOLO TV HD"},
-
-{"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
- qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://amigofx.com:1936/championtv/championtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://69.64.57.208/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
