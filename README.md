@@ -28,6 +28,8 @@
 
 { "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "title": "TOP NOVELAS" },
 
+{ "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }
+
 {"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg","title":"CBC TV"},
 
 {"description":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sources":["https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg","title":"PASSION NOVELAS"},
