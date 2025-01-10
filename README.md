@@ -28,7 +28,7 @@
 
 { "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "title": "TOP NOVELAS" },
 
-{ "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" }
+{ "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" },
 
 {"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg","title":"CBC TV"},
 
