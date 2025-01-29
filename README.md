@@ -1,7 +1,15 @@
 # MainCongofm
 {"categories":[{"name":"Movies","videos":[{ "description": "Vengeance Télévision, la Chaîne Mystique.", "sources": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "title": "VENGEANCE-TV" },
 
-{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
+{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},{
+          "description": "Sacré Vision Média TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "sources": [
+            "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
+          ],
+          "subtitle": "All Channels",
+          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
+          "title": "SVTV"
+        },
 
 {
     "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
