@@ -1,7 +1,10 @@
 # MainCongofm
-{"categories":[{"name":"Movies","videos":[{ "description": "Vengeance Télévision, la Chaîne Mystique.", "sources": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "title": "VENGEANCE-TV" },
+{"categories":[{"name":"Movies","videos":[ {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
 
-{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},{
+{ "description": "Vengeance Télévision, la Chaîne Mystique.", "sources": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "title": "VENGEANCE-TV" },
+
+{"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
+{
           "description": "Sacrée Vision Média TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "sources": [
             "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
@@ -10,6 +13,7 @@
           "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
           "title": "SVTV"
         },
+        {"description":"KIN DIRECT TV est télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières.","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
 
 {
     "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
@@ -20,6 +24,7 @@
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIA TV 3"
 },
+{"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg","title":"CBC TV"},
 
 {"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
 {
@@ -31,14 +36,11 @@
           "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
           "title": "GOSPEL CHANNEL"
         },
-        { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
-        { "description": "Mongala Télévision est la première chaine thematique en République du Congo.", "sources": [ "https://stream.berosat.live:19360/mongala-tv/mongala-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg", "title": "MONGALA TV" },
+        {"description":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","sources":["http://51.254.199.122:8080/bossbrothersTV/index.m3u8"],"subtitle":"All Channels","thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","title":"BOSS BROTHER"},
 
 { "description": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "sources": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitle": "All Channel", "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "title": "TOP NOVELAS" },
 
 { "description": "Tele Province, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/tele-province/tele-province.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzY4MTkwNTJf/teleprovincewhite.jpg", "title": "TELE PROVINCE" },
-
-{"description":"CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg","title":"CBC TV"},
 
 {"description":"Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres","sources":["https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg","title":"PASSION NOVELAS"},
 
@@ -46,21 +48,16 @@
 
 {"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres...","sources":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","title":"NOVELAS TV"},
 
-{"description":"Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
-
 {"description":"Be Blessed Média (Beb FM Et Beb TV) Est Un Projet Porté Par La Société Be Blessed Group, Entreprise De Droit Congolais Spécialisée Dans L’évènementiel, La Production Et La Diffusion Des Programmes De Radio Et Télévision, La Production Phonographique ; Qui Elle-Même À La Base Est Une Initiative Des Férus De La Culture Et Des Journalistes D’expérience Ayant Fait Leurs Preuves Dans La Mise En Œuvre Et La Gestion Des Médias Tant Publics Que Privés Au Congo. L’entreprise Est Implantée À Pointe-Noire, Dans L’arrondissement N°1 E.P.Lumumba, Au Numéro 138 De L’avenue Costaude Immeuble SCI ONANGA , Grand Marché Pointe-Noire. Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et africaine, se veut le miroir des populations du continent. Engagée et citoyenne, elle a pour vocation de contribuer à l’éducation des populations, d’impacter positivement la société congolaise et africaine, et de contribuer à la transformation des mentalités. Beb fm s'impose sur le marché comme « la reine du contenu local ». Notre identité : Une chaîne de Radio congolaise décomplexée, originale et positive. Beb fm propose une nouvelle expérience audiovisuelle aux téléspectateurs africains :la télévision sans filtre Une chaîne qui donne la possibilité à son public de parler librement, sans censure et sans tabou. Beb fm entend mettre, au cœur de sa démarche, des sujets qui concernent les populations, qui leur tiennent à cœur, et les traiter sans compromis ni compromission Le positionnement de la chaîne s’articule autour des mots-clés suivants : vraie, positive, engagée, moderne, connectée, drôle, populaire, originale, interactive.","sources":["https://stream.berosat.live:19360/beb-tv/beb-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg","title":"BEB TV"},
 
 {"description":"Bero tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","sources":["https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzAzMTYxNzZf/berologos.jpg","title":"BERO TV"},
 
-{"description":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","sources":["http://51.254.199.122:8080/bossbrothersTV/index.m3u8"],"subtitle":"All Channels","thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","title":"BOSS BROTHER"},
-
 {"description":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
  qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sources":["https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","title":"CHAMPION TV"},
 
-
- {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
-
 { "description": "LULI+ TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources": [ "https://stream.berosat.live:19360/luli-plus/luli-plus.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzQ4NzczMDhf/luliplustv.jpg", "title": "LULI+ TV" },
+
+ { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/live-tv/live-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
 
 {"description":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","sources":["https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","title":"METANOIA TV"},
 
@@ -74,8 +71,6 @@
           "title": "KK TV"
         },
 
-{"description":"Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com","sources":["https://helga.iptv2022.com/sh/Ev-TELE/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","title":"EV TELE"},
-
  { "description": "Hope Channel TV est une chaîne généraliste émettant à Kinshasa qui diffuse que des predications, des informations, musiques et autres....", "sources": [ "https://glb.bozztv.com/glb/ssh101/hopetvg/playlist.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg3NzA3MDdf/hope-channel-tv-cd.png", "title": "HOPE CHANNEL TV" },
 
 {"description":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","sources":["https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","title":"ONE TV"},
@@ -84,35 +79,21 @@
 
 {"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
 
-{"description":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sources":["https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","title":"AYA TV"}, 
-
 {"description":"A+ IVOIRE TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sources":["http://69.64.57.208/atv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE1NzU3MThf/AplusIvoire.jpeg","title":"A+ IVOIRE"},
 
 {"description":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","title":"AFRO MAGIC"},
  
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
-{"description":"Actu Ngolo TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","title":"ACTU NGOLO TV HD"},
-
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://69.64.57.208/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
-{"description":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","sources":["https://helga.iptv2022.com/sh/EGG_PRO_TV/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","title":"EGG PRO TV"},
-
 {"description":"Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement","sources":["https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg","title":"AFRO MAGIC"},
-
-{"description":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com.","sources":["https://helga.iptv2022.com/sh/SYNTY_TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","title":"SYNTY TV"},   
 
 {"description":"DRTV est une chaine privee","sources":["http://185.59.221.131:8081/live/drtv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzEyNjdf/drtv.jpg","title":"DRTV"},
 
 {"description":"Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg","title":"TELE NOVELAS"},
 
 {"description":"Tele Congo est une chaine national de la Republique du Congo.","sources":["http://69.64.57.208/telecongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg","title":"TELE CONGO"},
-
-{"description":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","sources":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","title":"VOICI L'HOMME"},
-
-{"description":"Bostra TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","title":"BOSTRA TV"},
-
-{"description":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","sources":["https://helga.iptv2022.com/sh/VERITE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","title":"VERITE TV"},
 
  {"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://69.64.57.208/aforevo/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV"},
 
@@ -161,8 +142,6 @@
 {"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"},
 
 {"description":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sources":["https://stream.it-innov.com/misec/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"MISEC TV"},
-
-{"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["https://helga.iptv2022.com/sh/GE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
 
 {"description":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sources":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","title":"CTV AFRICA"},
 
@@ -239,6 +218,26 @@
 {"description":"LBFD Radio Télévision est une chaîne généraliste pour tous.","sources":["https://helga.iptv2022.com/sh/LBFD_RTV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYxNjAwMTJf/lbfdtv.jpg","title":"LBFD RTV"},   
 
 {"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste  dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["http://139.162.176.133:8080/hls/stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
+
+{"description":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com.","sources":["https://helga.iptv2022.com/sh/SYNTY_TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","title":"SYNTY TV"},
+
+{ "description": "Mongala Télévision est la première chaine thematique en République du Congo.", "sources": [ "https://stream.berosat.live:19360/mongala-tv/mongala-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg", "title": "MONGALA TV" },
+
+{"description":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","sources":["https://helga.iptv2022.com/sh/EGG_PRO_TV/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","title":"EGG PRO TV"}, 
+
+{"description":"Actu Ngolo TV HD est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","title":"ACTU NGOLO TV HD"},
+
+{"description":"Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com","sources":["https://helga.iptv2022.com/sh/Ev-TELE/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","title":"EV TELE"},
+
+{"description":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sources":["https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","title":"AYA TV"}, 
+
+{"description":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","sources":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","title":"VOICI L'HOMME"},
+
+{"description":"Bostra TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","title":"BOSTRA TV"},
+
+{"description":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","sources":["https://helga.iptv2022.com/sh/VERITE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","title":"VERITE TV"},
+
+{"description":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","sources":["https://helga.iptv2022.com/sh/GE_TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","title":"GROUPE EMMANUEL"},
 
 {"description":"RCV TV","sources":["https://helga.iptv2022.com/sh/RCV_TV/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMxNzg5Mzdf/rcvtv.jpg","title":"RCV TV"},
 
