@@ -13,7 +13,7 @@
           "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
           "title": "SVTV"
         },
-        {"description":"KIN DIRECT TV est télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières.","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
+        {"description":"KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières.","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
 
 {
     "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
