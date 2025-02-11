@@ -4,6 +4,8 @@
 { "description": "Vengeance Télévision, la Chaîne Mystique.", "sources": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "title": "VENGEANCE-TV" },
 
 {"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
+{ "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..", "sources": [ "https://stream.berosat.live:19360/der-tv/der-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg", "title": "DER-TV" },
+{ "description": "ML PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE.", "sources": [ "https://stream.berosat.live:19360/mlpro-tv/mlpro-tv.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzc5MTAzNjBf/MLPRO-TV.jpg", "title": "ML PRO TV" },
 {
           "description": "Sacrée Vision Média TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "sources": [
