@@ -1,6 +1,8 @@
 # MainCongofm
 {"categories":[{"name":"Movies","videos":[ {"description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne....", "sources":["https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg","title": "EXPLOITS TV"},
 
+{ "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
+
 {"description":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","sources":["https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","title":"ANTENNE A"},
 
 {"description":"RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact","sources":["https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg","title":"RTV CBCO"},
@@ -16,7 +18,6 @@
           "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
           "title": "SVTV"
         },
-        { "description": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "sources": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "title": "EMB MISSION TV" },
         {"description":"KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières.","sources":["https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg","title":"KIN DIRECT TV"},
 
 {
