@@ -190,16 +190,30 @@
           "number": "38",
           "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
           "title": "BALADE MONDE TV"
-        }
+        },
+        {
+    "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo.",
+      "sources": [
+          "https://stream.berosat.live:19360/best-tv/best-tv.m3u8"
+          ],
+          "number": "39",
+          "thumb": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg",
+          "title": "ROI THE BEST"
+         },
+          {
+    "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
+      "sources": [
+          "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
+          ],
+          "number": "40",
+          "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
+          "title": "ONE TV"
+         }
       ]
     }
   ]
 }
-
-
-{"description":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","sources":["https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","title":"ONE TV"},
-
-{"description": "Nollywood tv est une chaine des cinemas africains","sources":["http://69.64.57.208/aforevo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD"}, 
+ 
 
 {"description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com","sources":["http://livestream.kgsols.com/push/KeurN/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg","title":"KEUR NDANANE TV"}, 
 
