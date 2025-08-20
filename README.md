@@ -287,6 +287,7 @@
           "https://stream.berosat.live:19360/hannabih-tv/hannabih-tv.m3u8"
           ],
           "number": "48",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/hannabih-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODQxODY3MTBf/hannabih.jpg",
           "title": "HANNABIH TV"
                 },
