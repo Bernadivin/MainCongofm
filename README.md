@@ -123,7 +123,7 @@
           {
     "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
       "sources": [
-          "https://stream.berosat.live:19360/rlpro-tv-index/rlpro-tv-index.m3u8"
+          "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/rlpro-tv-index/?header=true",
           "number": "32",
@@ -197,6 +197,7 @@
           "https://stream.berosat.live:19360/best-tv/best-tv.m3u8"
           ],
           "number": "39",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODQxMTAwODdf/besttv.jpg",
           "title": "ROI THE BEST"
          },
@@ -206,6 +207,7 @@
           "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
           ],
           "number": "40",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
           "title": "ONE TV"
          },
@@ -215,6 +217,7 @@
           "https://stream.berosat.live:19360/3khd-index/3khd-index.m3u8"
           ],
           "number": "41",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODM5Mjc2NThf/3ktelevision.jpg",
           "title": "3K HD TÉLÉVISION"
                 },
@@ -224,6 +227,7 @@
           "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8"
           ],
           "number": "42",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODIzMzg2NDlf/finesseTVmonde.jpg",
           "title": "FINESSE MONDE TV"
                 },
@@ -233,6 +237,7 @@
           "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8"
           ],
           "number": "43",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
           "title": "GOLGOTHA TV"
                 },
@@ -242,6 +247,7 @@
           "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8"
           ],
           "number": "44",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg",
           "title": "CINEAC TV"
                 },
@@ -251,6 +257,7 @@
           "https://stream.berosat.live:19360/gg-tv/gg-tv.m3u8"
           ],
           "number": "45",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODQ2MDUzMzdf/ggtv.jpg",
           "title": "GG TV"
                 },
@@ -260,6 +267,7 @@
           "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8"
           ],
           "number": "46",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/jos-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg",
           "title": "JOY TV"
                 },
@@ -269,6 +277,7 @@
           "https://stream.berosat.live:19360/nti-index/nti-index.m3u8"
           ],
           "number": "47",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/nti-index/?header=true",
           "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg",
           "title": "NTI TV"
                 },
@@ -287,6 +296,7 @@
           "https://stream.berosat.live:19360/masolo-tv/masolo-tv.m3u8"
           ],
           "number": "49",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/masolo-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODQ0MjMyNTNf/masolotv.jpg",
           "title": "MASOLO TV"
                 },
@@ -296,6 +306,7 @@
           "https://stream.berosat.live:19360/machine-record/machine-record.m3u8"
           ],
           "number": "50",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/machine-record/?header=true",
           "thumb": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg",
           "title": "MACHINE RECORD TV"
                 },
@@ -305,6 +316,7 @@
           "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8"
           ],
           "number": "51",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/jdk-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg",
           "title": "JDK TV"
                 },
@@ -314,6 +326,7 @@
           "https://stream.berosat.live:19360/lareunion-tv-stream/lareunion-tv-stream.m3u8"
           ],
           "number": "52",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/lareunion-tv-stream/?header=true",
           "thumb": "https://od.lk/s/NDZfODE2MTg0OTdf/lareunion.png",
           "title": "LA REUNION TV"
                 },
@@ -323,6 +336,7 @@
           "https://stream.berosat.live:19360/mbalio-tv/mbalio-tv.m3u8"
           ],
           "number": "53",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/mbalio-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODQzMTM0MjZf/mbaliosombo.jpg",
           "title": "MBALIOSOMBO TV"
                 },
@@ -332,6 +346,7 @@
           "https://stream.berosat.live:19360/cop-tv/cop-tv.m3u8"
           ],
           "number": "54",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cop-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODExNTUxMTFf/copTV.jpg",
           "title": "COP TELEVISION"
                 },
@@ -341,6 +356,7 @@
           "https://stream.berosat.live:19360/memjs-tv/memjs-tv.m3u8"
           ],
           "number": "55",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/memjs-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODQyOTY5OTBf/memjs.jpg",
           "title": "MEMJS TV"
                 },
@@ -350,6 +366,7 @@
           "https://stream.berosat.live:19360/mvc-pro/mvc-pro.m3u8"
           ],
           "number": "56",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/mvc-pro/?header=true",
           "thumb": "https://od.lk/s/NDZfODQxMzg1ODNf/mcprotv.jpg",
           "title": "MC PRO TV"
                 },
@@ -359,6 +376,7 @@
           "https://stream.berosat.live:19360/lotombo-index/lotombo-index.m3u8"
           ],
           "number": "57",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/lotombo-index/?header=true",
           "thumb": "https://od.lk/s/NDZfODQ0MjM3NTVf/lotombotv.jpg",
           "title": "LOTOMBO TV"
                 },
@@ -368,6 +386,7 @@
           "https://stream.berosat.live:19360/erudits-tv/erudits-tv.m3u8"
           ],
           "number": "58",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODQzMjA4NDJf/erudits.jpg",
           "title": "LES ERUDITS TV"
                 },
@@ -377,8 +396,149 @@
           "https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8"
           ],
           "number": "59",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg",
           "title": "MK NGOMA TV"
+        },
+        {
+    "description": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
+      "sources": [
+          "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"
+          ],
+          "number": "60",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
+          "title": "CCPV TV"
+        },
+        {
+    "description": "A+ IVOIRE TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....",
+      "sources": [
+          "http://69.64.57.208/atv/playlist.m3u8"
+          ],
+          "number": "61",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/NzNfODE1NzU3MThf/AplusIvoire.jpeg",
+          "title": "A+ IVOIRE"
+        },
+         {
+    "description": "BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres... Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais. À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble. En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères. Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!",
+      "sources": [
+          "https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8"
+          ],
+          "number": "62",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg",
+          "title": "BILILI TV"
+        },
+         {
+    "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com",
+      "sources": [
+          "http://livestream.kgsols.com/push/KeurN/playlist.m3u8"
+          ],
+          "number": "63",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
+          "title": "KEUR NDANANE TV"
+        },
+        {
+    "description": "Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...",
+      "sources": [
+          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"
+          ],
+          "number": "64",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg",
+          "title": "VISION 4"
+        },
+        {
+    "description": "Muzangala TV est une chaîne de télévision basée au Angola.",
+      "sources": [
+          "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"
+          ],
+          "number": "65",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
+          "title": "MUZANGALA TV"
+        },
+         {
+    "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
+      "sources": [
+          "http://69.64.57.208/rtnc/playlist.m3u8"
+          ],
+          "number": "66",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
+          "title": "RTNC HD"
+        },
+        {
+    "description": "Tele Congo est une chaine national de la Republique du Congo.",
+      "sources": [
+          "http://69.64.57.208/telecongo/playlist.m3u8"
+          ],
+          "number": "67",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg",
+          "title": "TELE CONGO"
+        },
+         {
+    "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8"
+          ],
+          "number": "68",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg",
+          "title": "COBLA TV"
+        },
+        {
+    "description": "Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.",
+      "sources": [
+          "https://stream.it-innov.com/misec/index.m3u8"
+          ],
+          "number": "69",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
+          "title": "MISEC TV"
+        },
+        {
+    "description": "Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....",
+      "sources": [
+          "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"
+          ],
+          "number": "70",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png",
+          "title": "IVOIRE TV"
+        },
+        {
+    "description": "Guide Love TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....",
+      "sources": [
+          "https://video1.getstreamhosting.com:1936/8056/8056/chunklist_w223996626.m3u8"
+          ],
+          "number": "71",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/M18yODc0MTgyNzVf/Guidetvs.jpeg",
+          "title": "GUIDE LOVE TV"
+        },
+        {
+    "description": "Canal 2 International est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone",
+      "sources": [
+          "http://69.64.57.208/canal2international/playlist.m3u8"
+          ],
+          "number": "72",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg",
+          "title": "CANAL 2 INTERNATIONAL"
+        },
+        {
+    "description": "Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.",
+      "sources": [
+          "http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"
+          ],
+          "number": "73",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg",
+          "title": "LOGOS CHANNEL"
         }
       ]
     }
@@ -386,45 +546,19 @@
 }
  
 
-{"description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com","sources":["http://livestream.kgsols.com/push/KeurN/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg","title":"KEUR NDANANE TV"}, 
-
-{"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
-
-{"description":"A+ IVOIRE TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sources":["http://69.64.57.208/atv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfODE1NzU3MThf/AplusIvoire.jpeg","title":"A+ IVOIRE"},
-
-{"description":"BILILI TV est une chaîne audiovisuelle congolaise à vocation culturelle et généraliste, diffusée en ligne via son site officiel BILILI TV Congo ainsi que sur les plateformes sociales telles que le Bouquet BERO TV, JAMBO PRO, CONGO FM, YouTube, Facebook, Instagram et autres... Sa mission est de refléter fidèlement les réalités Congolais, de valoriser les talents locaux, de promouvoir la diversité culturelle et de porter haut les aspirations du peuple congolais. À travers une programmation innovante et dynamique, BILILI TV informe, éduque, divertir et rassemble. En tant que médias de proximité, BILILI TV se veut inclusive et ouverte à toutes les voix, en mettant en lumière les langues vernaculaires du Congo aux côtés des langues étrangères. Elle incarne une ambition nationale tournée vers l'unité, le progrès et la valorisation de l'identité congolaise. BILILI TV, le Congo dans son ensemble !!!!!","sources":["https://stream.berosat.live:19360/bilili-tv-hd/bilili-tv-hd.m3u8"],"subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true","thumb":"https://od.lk/s/NDZfODE1ODI3NzVf/bilili.jpg","title":"BILILI TV"},
 
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "subtitle": "https://stream.berosat.live:2020/country-stats/fmg-rtv/?header=true", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
-
-
-{"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://69.64.57.208/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
 {"description":"Destiny Channel TV est une la Chaîne chrétienne de développement et Entreprenariat et autres","sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"https://stream.berosat.live:2020/country-stats/destiny-channel/?header=true","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title":"DESTINY CHANNEL"},
 
 { "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.", "sources": [ "http://37.187.138.41:80/BISO/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg", "title": "BISO TV" }, { "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.", "sources": [ "http://37.187.138.41:80/Sentinelle/index.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png", "title": "SENTINELLE TV" },
 
-{"description":"Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg","title":"TELE NOVELAS"},
 
-{"description":"Tele Congo est une chaine national de la Republique du Congo.","sources":["http://69.64.57.208/telecongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg","title":"TELE CONGO"},
-
-{ "description": "Cobla Television est une chaîne generaliste de divetissement émettant à partir de Kinshasa en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/cobla-tv-stream/cobla-tv-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg", "title": "COBLA TV" },
 
  { "description": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci. Pour tout contact : evtele2021@gmail.com", "sources": [ "https://stream.dmstream.link/hls/evtele.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg", "title": "EV TELE" },
 {"description":"Yanga Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com.","sources":["https://helga.iptv2022.com/Yanga_TV/index.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LndlYiJ9"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDQyMTk5NzNf/yanga.jpg","title":"YANGA TV"},
 
-{"description":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","sources":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","title":"POURIM TV"},
-
-{"description":"Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg","title":"VISION 4"},
-
-{"description":"Muzangala TV est une chaîne de télévision basée au Angola.","sources":["https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg","title":"MUZANGALA TV"},
-
-{"description":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sources":["https://stream.it-innov.com/misec/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","title":"MISEC TV"},
-
 {"description":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sources":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","title":"CTV AFRICA"},
-
-{"description":"Canal 2 International est une chaîne de divertissement et d’évènementiel. en Afrique francophone, anglophone et lusophone","sources":["http://69.64.57.208/canal2international/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg","title":"CANAL 2 INTERNATIONAL"},
-
-{"description":"Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sources":["http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg","title":"LOGOS CHANNEL"},
 
 {"description":"Glory Christ Channel est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sources":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","title":"GLORY CHRIST"},
 
@@ -449,10 +583,6 @@
 {"description":"LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://69.64.57.208/la3/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMjE5NTFf/la3.jpg","title":"LA 3"},
 
 {"description":"Business 24 TV est une chaîne privée ivoirienne","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODcwMzU5OTVf/business.jpg","title":"BUSINESS 24 TV"},
-
-{"description":"Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sources":["https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png","title":"IVOIRE TV"},
-
-{"description":"Guide Love TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sources":["https://video1.getstreamhosting.com:1936/8056/8056/chunklist_w223996626.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODc0MTgyNzVf/Guidetvs.jpeg","title":"GUIDE LOVE TV"},
 
 {"description":"BENIE TV est une télévision panafricaine d’obédience chrétienne dont la zone de couverture s’étend sur le monde, a été créée en Juin 2012 par le Couple Pastoral SAMUEL ET SYLVIANE OHENE-MANTE , Leaders de l’EGLISE EVANGELIQUE LA BENEDICTION située à Adjamé ; Commune De la Ville d’Abidjan,elle-même capitale de la République de Côte d’Ivoire. Elle est reçue gratuitement, sans abonnement à l’aide d’un décodeur et d’une parabole orientée dans la position des différents satellites par lesquels elle émet.BENIE TV met à la disposition de tous les annonceurs, partenaires, et sponsors, une plateforme de communication pour la diffusion de leurs messages, communiqués, spots et toute autre information relative à leurs activités avec pour objectif , Répandre l’évangile en vue de gagner des âmes à CHRIST, Permettre aux chrétiens de croitre spirituellement, Permettre aux Chrétiens de posséder leurs héritages","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_tv-avc1_600000=4-mp4a_98400_qad=1.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yODU3MDIzNDBf/benie.png","title":"BENIE TV"},
 
