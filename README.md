@@ -91,6 +91,16 @@
           "title": "EVI TV"
         },
         {
+    "description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, Pourim RTV brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin",
+      "sources": [
+          "https://stella.streamerr.co:3776/hybrid/play.m3u8"
+          ],
+          "subtitle": "https://stream.berosat.live:2020/country-stats/s-media-stream/?header=true",
+          "number": "20",
+          "thumb": "https://od.lk/s/NDZfODUyODc0MjBf/pourimtwo.jpg",
+          "title": "POURIM TV"
+        },
+        {
     "description": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite",
       "sources": [
           "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"
