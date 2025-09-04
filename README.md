@@ -1,5 +1,15 @@
 # MainCongofm
-{"categories":[{"name":"Movies","videos":[ 
+{"categories":[{"name":"Movies","videos":[
+         {
+    "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+      "sources": [
+          "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+          "subtitle": "https://stream.berosat.live:2020/country-stats/jsn-tv/?header=true",
+          "number": "17",
+          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "title": "JSN TV"
+        },
         {
     "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
       "sources": [
@@ -260,6 +270,16 @@
           "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
           "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg",
           "title": "CINEAC TV"
+                },
+                 {
+    "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.",
+      "sources": [
+          "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8"
+          ],
+          "number": "11",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/lubembe-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jp",
+          "title": "LUBEMBE TV"
                 },
                 {
     "description": "Groupe de la Gloireune chaine chrétienne, de développement et promotion de la culture congolaise",
