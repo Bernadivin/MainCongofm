@@ -11,16 +11,6 @@
           "title": "JSN TV"
         },
         {
-    "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
-      "sources": [
-          "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
-          ],
-          "subtitle": "https://stream.berosat.live:2020/country-stats/s-media-stream/?header=true",
-          "number": "20",
-          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
-          "title": "S-MEDIA TV 3"
-        },
-        {
     "description": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne...",
       "sources": [
           "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
@@ -201,16 +191,6 @@
           "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "title": "CHAMPION TV"
         },
-         {
-    "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo",
-      "sources": [
-          "https://stream.berosat.live:19360/live-tv/live-tv.m3u8"
-          ],
-          "subtitle": "https://stream.berosat.live:2020/country-stats/live-tv/?header=true",
-          "number": "38",
-          "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
-          "title": "BALADE MONDE TV"
-        },
         {
     "description": "Roi the Best television est la chaîne generaliste Émettant en Republique Democratique du Congo.",
       "sources": [
@@ -262,15 +242,15 @@
           "title": "GOLGOTHA TV"
                 },
                  {
-    "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines",
+    "description": "Dieskolus tv la chaine culturelle panafricaniste émettant depuis la ville province de Kinshasa en République Démocratique du Congo",
       "sources": [
-          "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8"
+          "https://stream.berosat.live:19360/dieskolus-tv/dieskolus-tv.m3u8"
           ],
-          "number": "44",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
-          "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg",
-          "title": "CINEAC TV"
-                },
+          "number": "74",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/dieskolus-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfODQ2MDA1NjBf/dieskolustv.jpg",
+          "title": "DIESKOLUS TV"
+                 },
                  {
     "description": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.",
       "sources": [
@@ -280,16 +260,6 @@
           "subtitle":"https://stream.berosat.live:2020/country-stats/lubembe-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jp",
           "title": "LUBEMBE TV"
-                },
-                {
-    "description": "Groupe de la Gloireune chaine chrétienne, de développement et promotion de la culture congolaise",
-      "sources": [
-          "https://stream.berosat.live:19360/gg-tv/gg-tv.m3u8"
-          ],
-          "number": "45",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
-          "thumb": "https://od.lk/s/NDZfODQ2MDUzMzdf/ggtv.jpg",
-          "title": "GG TV"
                 },
                 {
     "description": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC. JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne...",
@@ -340,16 +310,6 @@
           "subtitle":"https://stream.berosat.live:2020/country-stats/machine-record/?header=true",
           "thumb": "https://od.lk/s/NDZfODQyOTc4ODRf/machineRecord.jpg",
           "title": "MACHINE RECORD TV"
-                },
-                {
-    "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais",
-      "sources": [
-          "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8"
-          ],
-          "number": "51",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/jdk-tv/?header=true",
-          "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg",
-          "title": "JDK TV"
                 },
                 {
     "description": "La Reeunion Television est une chaîne generaliste émettant à Kinshasa",
@@ -579,6 +539,57 @@
 
 
 { "description": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde.", "sources": [ "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8" ], "subtitle": "https://stream.berosat.live:2020/country-stats/fmg-rtv/?header=true", "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg", "title": "FMG-RTV" }, 
+
+ {
+    "description": "JDK télévision , une chaîne generaliste d'Entertaiment pour promouvoir le cinema Congolais",
+      "sources": [
+          "https://stream.berosat.live:19360/jdk-tv/jdk-tv.m3u8"
+          ],
+          "number": "51",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/jdk-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfODQzMzUzNDNf/jdktv.jpg",
+          "title": "JDK TV"
+                },
+                 {
+    "description": "Groupe de la Gloireune chaine chrétienne, de développement et promotion de la culture congolaise",
+      "sources": [
+          "https://stream.berosat.live:19360/gg-tv/gg-tv.m3u8"
+          ],
+          "number": "45",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/NDZfODQ2MDUzMzdf/ggtv.jpg",
+          "title": "GG TV"
+                },
+                 {
+    "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/live-tv/live-tv.m3u8"
+          ],
+          "subtitle": "https://stream.berosat.live:2020/country-stats/live-tv/?header=true",
+          "number": "38",
+          "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
+          "title": "BALADE MONDE TV"
+        },
+                 {
+    "description": "Cineac television est une chaine cinematographique qui diffuse les films ainsi que les series Congolaise et Africaines",
+      "sources": [
+          "https://stream.berosat.live:19360/cineac-tv/cineac-tv.m3u8"
+          ],
+          "number": "44",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "thumb": "https://od.lk/s/NDZfODIyODg2ODVf/cineacTV.jpg",
+          "title": "CINEAC TV"
+                },
+                 {
+    "description": "S-MEDIA est une chaîne privée en République du Congo. Nous Sommes sur aussi TNT",
+      "sources": [
+          "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
+          ],
+          "subtitle": "https://stream.berosat.live:2020/country-stats/s-media-stream/?header=true",
+          "number": "20",
+          "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
+          "title": "S-MEDIA TV 3"
+        },
 
 {"description":"Destiny Channel TV est une la Chaîne chrétienne de développement et Entreprenariat et autres","sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitle":"https://stream.berosat.live:2020/country-stats/destiny-channel/?header=true","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title":"DESTINY CHANNEL"},
 
