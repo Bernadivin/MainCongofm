@@ -727,30 +727,102 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg",
           "title": "CANAL 2 INTERNATIONAL"
         },
-		{"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
-
-{"description":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/215/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","title":"AM FAMILY"},
-
-{"description":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/216/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","title":"AM SHOWCASE"},
-
-{"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/132/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 5"},
-
-{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/149/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 2"},
-
-{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
-
+		 {
+    "description": "AM EPIC TV est une chaine televisee des series Africaines et autres....",
+      "sources": [
+          "http://145.239.5.177:8080/214/index.m3u8"
+          ],
+          "number": "73",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg",
+          "title": "AM EPIC"
+        },
+		 {
+    "description": "AM FAMILY TV est une chaine televisee des series Africaines et autres....",
+      "sources": [
+          "http://145.239.5.177:8080/215/index.m3u8"
+          ],
+          "number": "74",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg",
+          "title": "AM FAMILY"
+        },
+		{
+    "description": "AM SHOWCASE TV est une chaine televisee des series Africaines et autres....",
+      "sources": [
+          "http://145.239.5.177:8080/216/index.m3u8"
+          ],
+          "number": "75",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png",
+          "title": "AM SHOWCASE"
+        },
+		{
+    "description": "TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement",
+      "sources": [
+          "http://145.239.5.177:8080/152/index.m3u8"
+          ],
+          "number": "76",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif",
+          "title": "TL NOVELAS"
+        },
+		{
+    "description": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+      "sources": [
+          "http://145.239.5.177:8080/347/index.m3u8"
+          ],
+          "number": "77",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
+          "title": "NOVELAS TV"
+        },
+		{
+    "description": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+      "sources": [
+          "http://145.239.5.177:8080/132/index.m3u8"
+          ],
+          "number": "78",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
+          "title": "NOVELAS TV 5"
+        },
+		{
+    "description": "Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+      "sources": [
+          "http://145.239.5.177:8080/122/index.m3u8"
+          ],
+          "number": "79",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg",
+          "title": "CANAL+ ELLES"
+        },
+		{
+    "description": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+      "sources": [
+          "http://145.239.5.177:8080/149/index.m3u8"
+          ],
+          "number": "80",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
+          "title": "NOVELAS TV 2"
+        },
+		{
+    "description": "Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+      "sources": [
+          "http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"
+          ],
+          "number": "80",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
+          "thumb": "https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png",
+          "title": "CANAL+ SERIE"
+        },
 {
     "description": "Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.",
       "sources": [
           "http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"
           ],
-          "number": "73",
+          "number": "81",
           "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
           "thumb": "https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg",
           "title": "LOGOS CHANNEL"
