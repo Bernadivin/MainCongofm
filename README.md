@@ -750,7 +750,24 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
           "thumb": "https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg",
           "title": "LOGOS CHANNEL"
-        }
+        },
+		{"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
+
+{"description":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/215/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","title":"AM FAMILY"},
+
+{"description":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/216/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","title":"AM SHOWCASE"},
+
+{"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/132/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 5"},
+
+{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/149/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 2"},
+
+{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"}
       ]
     }
   ]
@@ -959,10 +976,6 @@ http://stream.zeno.fm/eyuiqh60p1qtv
 
 {"description":"Tata TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/tata-tv/tata-tv.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNDk5MzJf/Tata.jpg","title":"TATA TV"},
 
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/149/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 2"},
-
-{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
-
 {"description":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","sources":["http://185.59.221.131:8081/live/digitalcongo/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","title":"DIGITAL CONGO"},
 
 {"description":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","sources":["http://185.59.221.131:8081/live/tele50/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","title":"TELE 50"},
@@ -979,17 +992,13 @@ http://stream.zeno.fm/eyuiqh60p1qtv
 
 {"description":"Congo Panique TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.berosat.live:19360/ticia-tv/ticia-tv.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNjAxMzY0NTZf/congopanique.jpg","title":"CONGO PANIQUE"},
 
-{"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
 
-{"description":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/215/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","title":"AM FAMILY"},
 
-{"description":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/216/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","title":"AM SHOWCASE"},
 
-{"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
 
-{"description":"Antenne A est une chaine privee de la RDCongo.","sources":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","title":"ANTENNE A"},
 
-{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
+
+
 
 {"description":"Canal+ Pop est une chaine du groupe Canal+","sources":["http://185.59.221.131:8081/live/canalpop/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMxMzc3MTZf/canalpluspop.png","title":"CANAL+ POP"},
 
@@ -999,11 +1008,10 @@ http://stream.zeno.fm/eyuiqh60p1qtv
 
 {"description":"Nollywood TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/148/index.m3u"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png","title":"NOLLYWOOD TV 3"},
 
-{"description":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","title":"STAR+ NOVELAS"},
 
 {"description":"VOX Africa est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/voxafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjE3ODdf/voxafrica.png","title":"VOX AFRICA"},
 
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
+
 
 {"description":"LCA TV est une chaine privee","sources":["http://185.59.221.131:8081/live/lca/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTMwMjkzOTBf/lcatv.png","title":"LCA TV"},
 
@@ -1048,8 +1056,6 @@ http://stream.zeno.fm/eyuiqh60p1qtv
 {"description":"Tele Africa est une chaine  divertissement","sources":["http://185.59.221.131:8081/live/teleafrica/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjExNjRf/teeafrica.png","title":"TELE AFRICA"},
 
 {"description":"Teen Serie TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04b531-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af7e8ed7-6977-4fd3-ad9f-89d89e958736&serverSideAds=false"],"subtitle":"All Channel","thumb":"https://od.lk/s/NDZfNTE4NzEyNTFf/teenSerie.jpg","title":"TEEN SERIE"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/132/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 5"},
 
 {"description":"Life TV est une chaine  d'Informations","sources":["http://185.59.221.131:8081/live/lifetv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTMwMjIxMjdf/lifetv.png","title":"LIFE TV"},
 
