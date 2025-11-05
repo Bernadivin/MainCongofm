@@ -220,10 +220,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
          },
          {"description": "Destiny Channel TV est une la Chaîne chrétienne de développement et  Entreprenariat et autres", "sources":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"], "number": "88", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","title": "DESTINY CHANNEL"},
 
-
-
-        
-        {
+{
     "description": "Maurice Kemba Vodo Television, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo",
       "sources": [
           "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8"
