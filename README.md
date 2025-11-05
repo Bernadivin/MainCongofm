@@ -674,24 +674,13 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfODEzODc0NDFf/coblatv.jpg",
           "title": "COBLA TV"
         },
-        {
-     "description": "Haut-Parleur tv, est une chaîne géneraliste emettant en Republique Democratique du Congo",
-          "sources": [
-            "https://stream.berosat.live:19360/hp-index/hp-index.m3u8"
-          ],
-	  "number": "6393",
-          "subtitle": "All Channels",
-          "thumb": "https://od.lk/s/NDZfODc3NTk5NjFf/hautparleur.jpg",
-          "title": "HAUT-PARLEUR"
-},
-
 {
      "description": "Bosenga Ya Peuple télévision est une chaine generaliste d'actualite, magazine, culture et autres, depuis la ville de Kinshasa !!!",
           "sources": [
             "https://stream.berosat.live:19360/bosenga-tv/bosenga-tv.m3u8"
           ],
 	  "number": "625",
-          "subtitle": "All Channels",
+           "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODY2MzI5Mzdf/bosengatv.jpg",
           "title": "BOSENGA YA PEUPLE"
  }, 
@@ -701,7 +690,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
             "https://stream.berosat.live:19360/novo-index/novo-index.m3u8"
           ],
 	  "number": "579",
-          "subtitle": "All Channels",
+           "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODczNTIwODRf/novosopro.jpg",
           "title": "NOVO SOPRO TV"
           }, 
@@ -715,9 +704,9 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png",
           "title": "IVOIRE TV"
         },
-        {"description":"Top Model G.M Télévision est une chaîne generaliste Culturelle Émettant en Republique Democratique du Congo.","sources":["https://stream.berosat.live:19360/top-model/top-model.m3u8"], "number": "491", "subtitle":"All Channel","thumb":"https://od.lk/s/NDZfODU1MTgzMDJf/topModel.jpg","title":"TOP MODEL TV"},
+        {"description":"Top Model G.M Télévision est une chaîne generaliste Culturelle Émettant en Republique Democratique du Congo.","sources":["https://stream.berosat.live:19360/top-model/top-model.m3u8"], "number": "491",  "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfODU1MTgzMDJf/topModel.jpg","title":"TOP MODEL TV"},
 
-{"description": "C.E.P.P.A television  est une chaîne chretienne, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.","sources":["https://stream.berosat.live:19360/ceppa-tv/ceppa-tv.m3u8"], "number": "76", "subtitle":"All Channels","thumb":"https://od.lk/s/NDZfODU1MTEzNzdf/ceppatv.jpg","title": "CEPPA TV"},
+{"description": "C.E.P.P.A television  est une chaîne chretienne, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin.","sources":["https://stream.berosat.live:19360/ceppa-tv/ceppa-tv.m3u8"], "number": "76",  "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfODU1MTEzNzdf/ceppatv.jpg","title": "CEPPA TV"},
         {
     "description": "Guide Love TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....",
       "sources": [
@@ -738,7 +727,25 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg",
           "title": "CANAL 2 INTERNATIONAL"
         },
-        {
+		{"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
+
+{"description":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/215/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","title":"AM FAMILY"},
+
+{"description":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/216/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","title":"AM SHOWCASE"},
+
+{"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/132/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 5"},
+
+{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
+
+{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/149/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 2"},
+
+{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"], "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"},
+
+{
     "description": "Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.",
       "sources": [
           "http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"
@@ -747,24 +754,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "subtitle":"https://stream.berosat.live:2020/country-stats/cobla-tv/?header=true",
           "thumb": "https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg",
           "title": "LOGOS CHANNEL"
-        },
-		{"description":"AM EPIC TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/214/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjFf/amEpictv.jpg","title":"AM EPIC"},
-
-{"description":"AM FAMILY TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/215/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjNf/amagicfamily.jpg","title":"AM FAMILY"},
-
-{"description":"AM SHOWCASE TV est une chaine televisee des series Africaines et autres....","sources":["http://145.239.5.177:8080/216/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTczNjRf/showcase.png","title":"AM SHOWCASE"},
-
-{"description":"TL Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres. Indiens pour votre divertissement","sources":["http://145.239.5.177:8080/152/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTU4NTcxMjVf/tlnovela.jfif","title":"TL NOVELAS"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/132/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 5"},
-
-{"description":"Canal Plus Elles TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/122/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfODE2MzY0ODRf/CanalPlusElles.jpg","title":"CANAL+ ELLES"},
-
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/149/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV 2"},
-
-{"description":"Canal Plus Serie TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://45.90.106.7:8779/play/VrQm857M6@U9J/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NzNfNjg5MzA2ODhf/canalPlusSerie.png","title":"CANAL+ SERIE"}
+        }
       ]
     }
   ]
