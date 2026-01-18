@@ -19,7 +19,12 @@
           "number": "21",
           "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
           "title": "JSN TV"
-        },
+        }
+	  ]
+    }
+  ]
+}
+
          { "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.", "sources": [ "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8" ], "number": "391", "subtitle": "https://stream.berosat.live:2020/country-stats/congo-unis/?header=true", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg", "title": "CONGO UNIS" },
         {
     "description": "NTI TV est une chaîne privée émettant à Brazzaville",
@@ -60,11 +65,8 @@
           "number": "25",
           "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
           "title": "LE MONDE EN 24H"
-        }
-	  ]
-    }
-  ]
-}
+        },
+
 
 		
         {
