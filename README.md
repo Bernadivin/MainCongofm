@@ -179,7 +179,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "INFO + HD TV"
         },
         { "description": "DealWorld TV,  La convergence du commerce et de la connaissance.  DealWorld TV est une chaîne hybride IPTV en direct de téléachat et de formation, conçue pour répondre aux attentes d’un public en quête de solutions concrètes, d’opportunités commerciales et de montées en compétences. Elle combine la puissance du téléachat interactif avec des contenus pédagogiques ciblés, pour créer un écosystème unique où chaque produit vendu est aussi une porte d’entrée vers le savoir-faire.  
-Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir »", "sources": [ "http://45.8.148.135/hls/CANAL-TEST/index.m3u8" ], "number": "536", "subtitle": "Still Updating ....", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg", "title": "DEAL WORLD TV" },
+Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir", "sources": [ "http://45.8.148.135/hls/CANAL-TEST/index.m3u8" ], "number": "536", "subtitle": "Still Updating ....", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg", "title": "DEAL WORLD TV" },
 {
      "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo",
           "sources": [
@@ -233,7 +233,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "AN-NOUR tv"
         },
          {
-    "description": "RT Afrika Telema TV est une chaîne généraliste,
+    "description": "RT Afrika Telema TV est une chaîne généraliste",
       "sources": [
           "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
           ],
@@ -466,7 +466,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
           "title": "GRAND MEDIA TV"
             },
              {
-    "description": ""P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions.
+    "description": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions.
 CONTACTS: +2250788422056/0596455112",
       "sources": [
           "https://neriyastreaming.ddns.net/memfs/facb27fa-2f5a-4f06-8039-1c429b18dfba.m3u8"
@@ -487,7 +487,7 @@ CONTACTS: +2250788422056/0596455112",
           "title": "KEUR NDANANE"
                 },
                 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
-Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
+Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
 
 { "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://live-onetv.eu:5866/hls/Clive1.m3u8" ], "number": "94", "subtitle": "Data Processing ...", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" },
 
@@ -525,9 +525,9 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "GUILD TV"
  },
 
-{ "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "483", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
+{ "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "483", "subtitle": "Loading Data ...", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
  
-{ "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
+{ "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
   {
       "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
@@ -535,7 +535,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
             "http://37.187.138.41:80/Sentinelle/index.m3u8"
           ],
 	  	  "number": "98",
-          "subtitle": "All Channels",
+          "subtitle": "Loading Data ...",
           "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
           "title": "SENTINELLE TV"
 	},
@@ -545,7 +545,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
             "https://terranoweb.duckdns.org/live/Evtele/index.m3u8"
           ],
 	  "number": "108",
-          "subtitle": "All Channels",
+          "subtitle": "Updating Data ...",
           "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
           "title": "EV TELE"
         },
@@ -555,11 +555,11 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"
           ],
           "number": "60",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "subtitle":"Loading Data ...",
           "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "title": "CCPV TV"
         },
-        { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "104", "subtitle": "All Channels", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
+        { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "104", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
 
 {
     "description": "Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...",
@@ -567,7 +567,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"
           ],
           "number": "64",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "subtitle":"Loading Data....",
           "thumb": "https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg",
           "title": "VISION 4"
         },
@@ -577,7 +577,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"
           ],
           "number": "65",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "subtitle":"Loading Data ...",
           "thumb": "https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
           "title": "MUZANGALA TV"
         },
@@ -587,7 +587,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "http://69.64.57.208/rtnc/playlist.m3u8"
           ],
           "number": "66",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "subtitle":"Fixeing Data ....",
           "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "title": "RTNC HD"
         },
@@ -597,7 +597,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "http://69.64.57.208/telecongo/playlist.m3u8"
           ],
           "number": "67",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/bilili-tv-hd/?header=true",
+          "subtitle":"Process on Load ....",
           "thumb": "https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg",
           "title": "TELE CONGO"
         },
