@@ -1,13 +1,33 @@
 # MainCongofm
-{"categories":[{"name":"Movies","videos":[ {
+{"categories":[{"name":"Movies","videos":[  {
+      "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+          ],
+	  "number": "11",
+          "subtitle": "https://stream.berosat.live:2020/country-stats/toseka-tv/?header=true",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
+          "title": "TOSEKA TV"
+          },
+{
     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
       "sources": [
           "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/jsn-tv/?header=true",
-          "number": "21",
+          "number": "12",
           "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
           "title": "JSN TV"
+        },
+		{
+    "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
+      "sources": [
+          "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+          ],
+          "subtitle": "https://stream.berosat.live:2020/country-stats/rlpro-tv/?header=true",
+          "number": "13",
+          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg",
+          "title": "RL PRO TV"
         },
 		{
     "description": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
@@ -15,30 +35,29 @@
           "https://stream.berosat.live:19360/wello-tv/wello-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/wello-tv/?header=true",
-          "number": "21",
+          "number": "14",
           "thumb": "https://od.lk/s/NzZfMTIyMTk2NzYxXw/welotv.jpg",
           "title": "BY WELLO TV"
         },
-       { "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.", "sources": [ "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8" ], "number": "391", "subtitle": "https://stream.berosat.live:2020/country-stats/congo-unis/?header=true", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg", "title": "CONGO UNIS" },
-        {
+		{
+    "description": "Le Monde en 24H, l'autoroute de l'information.",
+      "sources": [
+          "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8"
+          ],
+          "subtitle": "https://stream.berosat.live:2020/country-stats/monde24h-tv/?header=true",
+          "number": "15",
+          "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
+          "title": "LE MONDE EN 24H"
+        },
+		  {
     "description": "NTI TV est une chaîne privée émettant à Brazzaville",
       "sources": [
           "https://stream.berosat.live:19360/nti-index/nti-index.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/emb-mission-stream/?header=true",
-          "number": "22",
+          "number": "16",
           "thumb": "https://od.lk/s/NDZfODQyMDY2Njlf/ntitv.jpg",
           "title": "NTI TV"
-        },
-       {
-    "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-      "sources": [
-          "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-          ],
-          "subtitle": "https://stream.berosat.live:2020/country-stats/rlpro-tv/?header=true",
-          "number": "23",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg",
-          "title": "RL PRO TV"
         },
         {
     "description": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale.",
@@ -46,30 +65,10 @@
           "https://5caf24a595d94.streamlock.net:1937/8052/8052/playlist.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/cbc-tv/?header=true",
-          "number": "24",
+          "number": "17",
           "thumb": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
           "title": "LOLLYWOOD HD TV"
         },
-        {
-    "description": "Le Monde en 24H, l'autoroute de l'information.",
-      "sources": [
-          "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8"
-          ],
-          "subtitle": "https://stream.berosat.live:2020/country-stats/monde24h-tv/?header=true",
-          "number": "25",
-          "thumb": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
-          "title": "LE MONDE EN 24H"
-        },
-        {
-      "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
-          ],
-	  "number": "57",
-          "subtitle": "https://stream.berosat.live:2020/country-stats/toseka-tv/?header=true",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
-          "title": "TOSEKA TV"
-          },
         {
     "description": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes  expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs.
 Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111",
@@ -77,7 +76,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/baraka-hd/?header=true",
-          "number": "26",
+          "number": "18",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg",
           "title": "BARAKA TV"
         },
@@ -87,16 +86,17 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/golgotha-tv/?header=true",
-          "number": "27",
+          "number": "19",
           "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
           "title": "GOLGOTHA TV"
         },
+		  { "description": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.  Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel.  Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo.  - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité.  - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.", "sources": [ "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8" ], "number": "20", "subtitle": "https://stream.berosat.live:2020/country-stats/congo-unis/?header=true", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg", "title": "CONGO UNIS" },
         {
      "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner.",
           "sources": [
             "https://stream.berosat.live:19360/der-tv/der-tv.m3u8"
           ],
-	  "number": "625",
+	  "number": "21",
           "subtitle": "https://stream.berosat.live:2020/country-stats/der-tv/?header=true",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp",
           "title": "DER-TV"
@@ -107,7 +107,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/finesse-monde/?header=true",
-          "number": "28",
+          "number": "22",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg",
           "title": "FINESSE MONDE TV"
         },
@@ -117,7 +117,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "https://stream.berosat.live:19360/antenne-a-stream/antenne-a-stream.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/antenne-a-stream/?header=true",
-          "number": "20",
+          "number": "23",
           "thumb": "https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png",
           "title": "ANTENNE A"
         },
@@ -127,11 +127,11 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/sifa-tv/?header=true",
-          "number": "29",
+          "number": "24",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
           "title": "SIFA TV"
         },
-        { "description": "Champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "102", "subtitle": "https://stream.berosat.live:2020/country-stats/champion-tv/?header=true", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
+        { "description": "Champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "25", "subtitle": "https://stream.berosat.live:2020/country-stats/champion-tv/?header=true", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
 {
     "description": "Top Novelas TV est une chaine divertissement, des films et series Novelas mexicains, Bresiliennes, Europeens et autres",
@@ -139,11 +139,11 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/top-novelas/?header=true",
-          "number": "30",
+          "number": "26",
           "thumb": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
           "title": "TOP NOVELAS"
         },
-        { "description": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.", "sources": [ "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8" ], "number": "99", "subtitle": "https://stream.berosat.live:2020/country-stats/tv-capitale-stream/?header=true", "thumb": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg", "title": "TV LA CAPITALE" },
+        { "description": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.", "sources": [ "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8" ], "number": "27", "subtitle": "https://stream.berosat.live:2020/country-stats/tv-capitale-stream/?header=true", "thumb": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg", "title": "TV LA CAPITALE" },
 
 {
     "description": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde.",
@@ -151,7 +151,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "https://stream.berosat.live:19360/kmk-index/kmk-index.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/kmk-index/?header=true",
-          "number": "31",
+          "number": "28",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
           "title": "KMK TV"
         },
@@ -161,29 +161,29 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/lubembe-tv/?header=true",
-          "number": "32",
+          "number": "29",
           "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg",
           "title": "LUBEMBE TV"
         },
-        { "description": "ERD télévision Une chaîne d’édification  et  restauration d'équipe âmes.", "sources": [ "http://iptv.berosat.live/hls/ERD-TV/index.m3u8" ], "number": "145", "subtitle": "Still Loading ....", "thumb": "https://od.lk/s/NDZfOTAxMDMzODZf/erdtv.jpg", "title": "ERD TV" },
+        { "description": "ERD télévision Une chaîne d’édification  et  restauration d'équipe âmes.", "sources": [ "http://iptv.berosat.live/hls/ERD-TV/index.m3u8" ], "number": "30", "subtitle": "Still Loading ....", "thumb": "https://od.lk/s/NDZfOTAxMDMzODZf/erdtv.jpg", "title": "ERD TV" },
          {
     "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
       "sources": [
           "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/infos-plus/?header=true",
-          "number": "33",
+          "number": "31",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
           "title": "INFO + HD TV"
         },
         { "description": "DealWorld TV,  La convergence du commerce et de la connaissance.  DealWorld TV est une chaîne hybride IPTV en direct de téléachat et de formation, conçue pour répondre aux attentes d’un public en quête de solutions concrètes, d’opportunités commerciales et de montées en compétences. Elle combine la puissance du téléachat interactif avec des contenus pédagogiques ciblés, pour créer un écosystème unique où chaque produit vendu est aussi une porte d’entrée vers le savoir-faire.  
-Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir", "sources": [ "http://45.8.148.135/hls/CANAL-TEST/index.m3u8" ], "number": "536", "subtitle": "Still Updating ....", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg", "title": "DEAL WORLD TV" },
+Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir", "sources": [ "http://45.8.148.135/hls/CANAL-TEST/index.m3u8" ], "number": "32", "subtitle": "Still Updating ....", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg", "title": "DEAL WORLD TV" },
 {
      "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo",
           "sources": [
             "https://stream.berosat.live:19360/live-tv/live-tv.m3u8"
           ],
-	  "number": "85",
+	  "number": "33",
           "subtitle": "https://stream.berosat.live:2020/country-stats/live-tv/?header=true",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDYyXw/balade.webp",
           "title": "BALADE MONDE TV"
@@ -193,7 +193,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "sources": [
             "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"
           ],
-	  "number": "452",
+	  "number": "34",
           "subtitle": "https://stream.berosat.live:2020/country-stats/esaie45-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
           "title": "ESAIE 45 TELE"
@@ -204,7 +204,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
             "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/cptv-tv/?header=true",
-		  "number": "746",
+		  "number": "35",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg",
           "title": "CPT TV"
           },
@@ -213,12 +213,12 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "sources": [
             "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
           ],
-	  "number": "785",
+	  "number": "36",
           "subtitle": "https://stream.berosat.live:2020/country-stats/evi-tv/?header=true",
           "thumb": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
           "title": "EVI TV"
          },
-         {"description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8"], "number": "88", "subtitle":"https://stream.berosat.live:2020/country-stats/furah-tv/?header=true","thumb":"https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg","title": "FURAH TV"},
+         {"description": "Furah télévision  est une chaine commercial emettant depuis Kinshasa, en Republique Democratique du Congo", "sources":["https://stream.berosat.live:19360/furah-tv/furah-tv.m3u8"], "number": "37", "subtitle":"https://stream.berosat.live:2020/country-stats/furah-tv/?header=true","thumb":"https://od.lk/s/NzZfMTIyMTk3OTQzXw/furahtv.jpg","title": "FURAH TV"},
 
 {
     "description": "An-Nour Média est une chaîne de télévision locale, nationale et internationale à pour thématique islamique francophone, conçue pour offrir une programmation à la fois spirituelle, éducative et sociétale. Elle s’adresse à un public large, avec des contenus adaptés aux familles, aux jeunes et aux chercheurs de sens.  Notre ligne éditoriale repose sur trois piliers : authenticité religieuse, accessibilité culturelle, qualité visuelle.  Nous recherchons des partenaires engagés dans la diffusion 24/7 de contenus porteurs de valeurs, capables d’accompagner notre développement sur les plateformes TV, OTT et digitales. An-Nour Média – _La lumière qui guide vos pas. Contact téléphonique et WathsApp : +242 066 728 859 et Nous comptons sur vous qui est notre partenaire immédiat",
@@ -226,9 +226,9 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "http://iptv.berosat.live/hls//AN-NOUR/index.m3u8"
           ],
           "subtitle": "Updating data .....",
-          "number": "34",
+          "number": "38",
           "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjhf/anNourtele.png",
-          "title": "AN-NOUR tv"
+          "title": "AN-NOUR MEDIA"
         },
          {
     "description": "RT Afrika Telema TV est une chaîne généraliste",
@@ -236,7 +236,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/afrika-index/?header=true",
-          "number": "35",
+          "number": "39",
           "thumb": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
           "title": "RT AFRIKA"
         },
@@ -246,7 +246,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/joy-tv/?header=true",
-          "number": "36",
+          "number": "40",
           "thumb": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg",
           "title": "JOY TV"
         },
@@ -256,7 +256,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "https://stream.berosat.live:19360/eloko-star/eloko-star.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/eloko-star/?header=true",
-          "number": "37",
+          "number": "41",
           "thumb": "https://od.lk/s/NDZfOTAxOTU4Mjlf/elokoStar.jpg",
           "title": "ELOKO STAR"
         },
@@ -265,7 +265,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
       "sources": [
           "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8"
           ],
-          "number": "39",
+          "number": "42",
           "subtitle":"https://stream.berosat.live:2020/country-stats/vitesse-tv/?header=true",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ5Xw/vitesse.jpg",
           "title": "VITESSE TV"
@@ -275,7 +275,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
       "sources": [
           "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8"
           ],
-          "number": "40",
+          "number": "43",
           "subtitle":"https://stream.berosat.live:2020/country-stats/s-media-stream/?header=true",
           "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg",
           "title": "S-MEDIAS TV 3"
@@ -285,7 +285,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "sources": [
             "https://stream.berosat.live:19360/prijana/prijana.m3u8"
           ],
-	  "number": "393",
+	  "number": "44",
           "subtitle": "https://stream.berosat.live:2020/country-stats/prijana/?header=true",
           "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
           "title": "PRIJANA TV"
@@ -295,7 +295,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
       "sources": [
           "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
           ],
-          "number": "41",
+          "number": "45",
           "subtitle":"https://stream.berosat.live:2020/country-stats/jos-tv-stream/?header=true",
           "thumb": "https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg",
           "title": "JOS-TV HD"
@@ -305,7 +305,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
       "sources": [
           "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8"
           ],
-          "number": "42",
+          "number": "46",
           "subtitle":"https://stream.berosat.live:2020/country-stats/chtv-hd/?header=true",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg",
           "title": "CH TV HD"
@@ -315,19 +315,19 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
       "sources": [
           "https://stream.berosat.live:19360/rte-tv/rte-tv.m3u8"
           ],
-          "number": "43",
+          "number": "47",
           "subtitle":"https://stream.berosat.live:2020/country-stats/rte-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfODEzNTU0ODFf/rteTV.jpg",
           "title": "RTE TV HD"
                 },
-                 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "613", "subtitle": "Updating Data .... ", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
+                 { "description": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila", "sources": [ "http://37.187.138.41:80/RTNC/index.m3u8" ], "number": "48", "subtitle": "Updating Data .... ", "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png", "title": "RTNC HD" },
 
  {
      "description": "KIN DIRECT TV est une chaîne de télévision caummunautaire émettant à partir de Kinshasa en République démocratique du Congo axée sur l'éducation, la paix, l'agro-élevage,, et l'encadrement des filles mères ainsi que des autochtones des zones minières",
           "sources": [
             "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
           ],
-	  "number": "693",
+	  "number": "49",
           "subtitle": "https://stream.berosat.live:2020/country-stats/kin-direct/?header=true",
           "thumb": "https://od.lk/s/NDZfODkxMjMxMzlf/kinDirect.jpg",
           "title": "KIN DIRECT TV"
@@ -337,7 +337,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
       "sources": [
           "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8"
           ],
-          "number": "74",
+          "number": "50",
           "subtitle":"https://stream.berosat.live:2020/country-stats/kk-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "title": "KK TV"
@@ -347,7 +347,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
       "sources": [
           "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8"
           ],
-          "number": "11",
+          "number": "51",
           "subtitle":"Loading Data .....",
           "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg",
           "title": "BOSS BROTHER"
@@ -357,7 +357,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
       "sources": [
           "https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"
           ],
-          "number": "46",
+          "number": "52",
           "subtitle":"https://stream.berosat.live:2020/country-stats/espoir-tv-stream/?header=true",
           "thumb": "https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg",
           "title": "ESPOIR TV"
@@ -367,7 +367,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "sources": [
             "https://stella.streamerr.co:3776/hybrid/play.m3u8"
           ],
-	  "number": "657",
+	  "number": "53",
           "subtitle": "Updating data ....",
           "thumb": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg",
           "title": "POURIM-RTV"
@@ -377,7 +377,7 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "sources": [
             "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8"
           ],
-	  "number": "694",
+	  "number": "54",
           "subtitle": "https://stream.berosat.live:2020/country-stats/fmg-rtv/?header=true",
           "thumb": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg",
           "title": "FMG-RTV"
@@ -388,7 +388,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
       "sources": [
           "https://video1.getstreamhosting.com:1936/daqegamrnd/daqegamrnd/playlist.m3u8"
           ],
-          "number": "47",
+          "number": "55",
           "subtitle":"Still Loading ...",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAyXw/nsiatv.jpg",
           "title": "NTI TV"
@@ -398,7 +398,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
       "sources": [
           "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
           ],
-          "number": "48",
+          "number": "56",
           "subtitle":"Updatng data .... ",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
           "title": "JERUBAAL TV"
@@ -408,7 +408,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
       "sources": [
           "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@MAGECO_PRO_TV.m3u8"
           ],
-          "number": "49",
+          "number": "57",
           "subtitle":"Still Loading ...",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAxXw/mageco.jpg",
           "title": "MAGECO PRO TV"
@@ -418,7 +418,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
       "sources": [
           "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@RUPTURE_TV.m3u8"
           ],
-          "number": "50",
+          "number": "58",
           "subtitle":"Updating Data ...",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg",
           "title": "RUPTURE TV"
@@ -428,7 +428,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
           "sources": [
             "http://185.209.228.92:8080/hls/RTSIR.m3u8"
           ],
-	  "number": "792",
+	  "number": "59",
           "subtitle": "Updating Data ...",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAzXw/rtsir.jpg",
           "title": "RTSIR"
@@ -438,7 +438,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
           "sources": [
             "http://185.209.228.92:8080/hls/BIOLO_TV_HD.m3u8"
           ],
-	  "number": "792",
+	  "number": "60",
           "subtitle": "Loading Data ....",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk0Xw/bilolotv.jpg",
           "title": "BILOLO TV"
@@ -448,7 +448,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
       "sources": [
           "http://185.209.228.92:8080/hls/INTELLO+.m3u8"
           ],
-          "number": "52",
+          "number": "61",
           "subtitle":"Updating Data ...",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
           "title": "INTELLO+ TV"
@@ -458,7 +458,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
       "sources": [
           "http://185.209.228.92:8080/hls/GRAND_MEDIA_TV.m3u8"
           ],
-          "number": "53",
+          "number": "62",
           "subtitle":"Loading Data .....",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
           "title": "GRAND MEDIA TV"
@@ -469,7 +469,7 @@ CONTACTS: +2250788422056/0596455112",
       "sources": [
           "https://neriyastreaming.ddns.net/memfs/facb27fa-2f5a-4f06-8039-1c429b18dfba.m3u8"
           ],
-          "number": "55",
+          "number": "63",
           "subtitle":"Data Processing ....",
           "thumb": "https://od.lk/s/NDZfODY2MzI5NDNf/pafrica.jpg",
           "title": "P'AFRICA TV"
@@ -479,23 +479,23 @@ CONTACTS: +2250788422056/0596455112",
       "sources": [
           "http://livestream.kgsols.com/push/KeurN/playlist.m3u8"
           ],
-          "number": "56",
+          "number": "64",
           "subtitle":"Loading Data ...",
           "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
           "title": "KEUR NDANANE"
                 },
                 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
-Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "68", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
+Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "65", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
 
-{ "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://live-onetv.eu:5866/hls/Clive1.m3u8" ], "number": "94", "subtitle": "Data Processing ...", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" },
+{ "description": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865", "sources": [ "https://live-onetv.eu:5866/hls/Clive1.m3u8" ], "number": "66", "subtitle": "Data Processing ...", "thumb": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg", "title": "ONE TV" },
 
-{ "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.", "sources": [ "http://37.187.138.41:80/BISO/index.m3u8" ], "number": "479", "subtitle": "Loading Data ....", "thumb": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg", "title": "BISO TV" },
+{ "description": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo.", "sources": [ "http://37.187.138.41:80/BISO/index.m3u8" ], "number": "67", "subtitle": "Loading Data ....", "thumb": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg", "title": "BISO TV" },
            {
       "description": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
           "sources": [
             "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8"
           ],
-	  "number": "957",
+	  "number": "68",
           "subtitle": "https://stream.berosat.live:2020/country-stats/gospel-channel/?header=true",
           "thumb": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
           "title": "GOSPEL CHANNEL"
@@ -505,7 +505,7 @@ Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande s
           "sources": [
             "https://srv.webtvmanager.fr:3483/hybrid/play.m3u8"
           ],
-	  "number": "95",
+	  "number": "69",
           "subtitle": "Updatng Data ...",
           "thumb": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg",
           "title": "LIGHT ECO TV"
@@ -517,22 +517,22 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "sources": [
             "https://video1.getstreamhosting.com:1936/8064/live/playlist.m3u8"
           ],
-	  "number": "103",
+	  "number": "70",
           "subtitle": "Updatin Data ... ",
           "thumb": "https://od.lk/s/NDZfODU1NjgxNTlf/guildtv.jpg",
           "title": "GUILD TV"
  },
 
-{ "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "483", "subtitle": "Loading Data ...", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
+{ "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "71", "subtitle": "Loading Data ...", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
  
-{ "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "97", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
+{ "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "72", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
   {
       "description": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
           "sources": [
             "http://37.187.138.41:80/Sentinelle/index.m3u8"
           ],
-	  	  "number": "98",
+	  	  "number": "73",
           "subtitle": "Loading Data ...",
           "thumb": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
           "title": "SENTINELLE TV"
@@ -542,7 +542,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "sources": [
             "https://terranoweb.duckdns.org/live/Evtele/index.m3u8"
           ],
-	  "number": "108",
+	  "number": "74",
           "subtitle": "Updating Data ...",
           "thumb": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
           "title": "EV TELE"
@@ -552,19 +552,30 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
       "sources": [
           "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"
           ],
-          "number": "60",
+          "number": "75",
           "subtitle":"Loading Data ...",
           "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "title": "CCPV TV"
         },
-        { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "104", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
+        { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "76", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }, 
+
+{
+      "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
+          "sources": [
+            "https://stream.berosat.live:19360/novo-index/novo-index.m3u8"
+          ],
+	  "number": "77",
+           "subtitle":"https://stream.berosat.live:2020/country-stats/novo-index/?header=true",
+          "thumb": "https://od.lk/s/NDZfODczNTIwODRf/novosopro.jpg",
+          "title": "NOVO SOPRO TV"
+          },
 
 {
     "description": "Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...",
       "sources": [
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"
           ],
-          "number": "64",
+          "number": "100",
           "subtitle":"Loading Data....",
           "thumb": "https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg",
           "title": "VISION 4"
@@ -574,7 +585,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
       "sources": [
           "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"
           ],
-          "number": "65",
+          "number": "101",
           "subtitle":"Loading Data ...",
           "thumb": "https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
           "title": "MUZANGALA TV"
@@ -584,7 +595,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
       "sources": [
           "http://69.64.57.208/rtnc/playlist.m3u8"
           ],
-          "number": "66",
+          "number": "102",
           "subtitle":"Fixeing Data ....",
           "thumb": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "title": "RTNC HD"
@@ -594,7 +605,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
       "sources": [
           "http://69.64.57.208/telecongo/playlist.m3u8"
           ],
-          "number": "67",
+          "number": "103",
           "subtitle":"Process on Load ....",
           "thumb": "https://od.lk/s/NDZfNTMwMzM1Mjhf/telecongo.jpeg",
           "title": "TELE CONGO"
@@ -605,7 +616,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
             "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@EGG_PRO_TV.m3u8"
           ],
           "subtitle": "Data Processing ...",
-		  "number": "794",
+		  "number": "104",
           "thumb": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
           "title": "EGG PRO TV"
     },
@@ -614,27 +625,17 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "sources": [
             "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8"
           ],
-	  "number": "625",
+	  "number": "105",
            "subtitle":"Loading Data ...",
           "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg",
           "title": "NUMERICA TV"
  }, 
-   {
-      "description": "Novo Sopro TV est une généraliste  qui diffuse que des des informations, musiques et autres....",
-          "sources": [
-            "https://stream.berosat.live:19360/novo-index/novo-index.m3u8"
-          ],
-	  "number": "579",
-           "subtitle":"https://stream.berosat.live:2020/country-stats/novo-index/?header=true",
-          "thumb": "https://od.lk/s/NDZfODczNTIwODRf/novosopro.jpg",
-          "title": "NOVO SOPRO TV"
-          }, 
         {
     "description": "Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....",
       "sources": [
           "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"
           ],
-          "number": "70",
+          "number": "106",
           "subtitle":"Loading Data ....",
           "thumb": "https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png",
           "title": "IVOIRE TV"
@@ -645,7 +646,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
       "sources": [
           "https://video1.getstreamhosting.com:1936/8056/8056/chunklist_w223996626.m3u8"
           ],
-          "number": "71",
+          "number": "107",
           "subtitle":"UpDating Daya ...",
           "thumb": "https://od.lk/s/M18yODc0MTgyNzVf/Guidetvs.jpeg",
           "title": "GUIDE LOVE TV"
@@ -655,7 +656,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
       "sources": [
           "http://69.64.57.208/canal2international/playlist.m3u8"
           ],
-          "number": "72",
+          "number": "108",
           "subtitle":"Data Loading ...",
           "thumb": "https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg",
           "title": "CANAL 2 INTERNATIONAL"
@@ -666,7 +667,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
       "sources": [
           "http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"
           ],
-          "number": "81",
+          "number": "109",
           "subtitle":"Loading Process ...",
           "thumb": "https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg",
           "title": "LOGOS CHANNEL"
@@ -677,7 +678,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
       "sources": [
           "https://stream.it-innov.com/misec/index.m3u8"
           ],
-          "number": "69",
+          "number": "110",
           "subtitle":"Data Loading ... ",
           "thumb": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
           "title": "MISEC TV"
