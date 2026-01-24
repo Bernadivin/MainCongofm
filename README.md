@@ -1,5 +1,15 @@
 # MainCongofm
 {"categories":[{"name":"Movies","videos":[  {
+      "description": "Kipushi 24 télévision est une généraliste émettant à partir de Kipushi en RDCongo.",
+          "sources": [
+            "http://iptv.berosat.live/hls/KIPUSHI24/index.m3u8"
+          ],
+	  "number": "10",
+          "subtitle": "https://stream.berosat.live:2020/country-stats/toseka-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
+          "title": "KIPUSHI 24"
+ },
+{
       "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
           "sources": [
             "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
@@ -8,7 +18,7 @@
           "subtitle": "https://stream.berosat.live:2020/country-stats/toseka-tv/?header=true",
           "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
           "title": "TOSEKA TV"
-          },
+ },
 {
     "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
       "sources": [
