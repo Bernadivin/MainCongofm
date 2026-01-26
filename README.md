@@ -1,5 +1,15 @@
 # MainCongofm
-{"categories":[{"name":"Movies","videos":[  {
+{"categories":[{"name":"Movies","videos":[    {
+      "description": "Lumiere du Monde télévision est une généraliste émettant à partir de Kinshasa en RDCongo.",
+          "sources": [
+            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
+          ],
+	  "number": "09",
+          "subtitle": "https://stream.berosat.live:2020/country-stats/lumiere-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
+          "title": "LUMIERE TV"
+ },
+{
       "description": "Kipushi 24 télévision est une généraliste émettant à partir de Kipushi en RDCongo.",
           "sources": [
             "http://iptv.berosat.live/hls/KIPUSHI24/index.m3u8"
