@@ -583,7 +583,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/nuru-tv/nuru-tv.m3u8"
           ],
           "number": "76",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/nuru-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
           "title": "NURU TV"
         },
@@ -593,7 +593,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/tele-plus/tele-plus.m3u8"
           ],
           "number": "77",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/tele-plus/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2NTE0NDdf/teleplus.jpg",
           "title": "TELE PLUS"
         },
@@ -603,7 +603,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/walk-faith/walk-faith.m3u8"
           ],
           "number": "78",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/walk-faith/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
           "title": "WALK OF FAITH TV"
         },
@@ -613,7 +613,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/central-voice/central-voice.m3u8"
           ],
           "number": "79",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/central-voice/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE0MDY4ODRf/centralvoice.jpg",
           "title": "CENTRAL VOICE"
         },
@@ -623,7 +623,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8"
           ],
           "number": "80",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/mtv-index/?header=true",
           "thumb": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
           "title": "METEO TV"
         },
@@ -633,7 +633,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
           ],
           "number": "81",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/gplus-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
           "title": "GPLUS TV"
         },
@@ -643,7 +643,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
           ],
           "number": "82",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/cnltv-index/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
           "title": "CNL TV"
         },
@@ -653,7 +653,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
           ],
           "number": "83",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/sv-stream-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
           "title": "SV TV"
         },
@@ -663,7 +663,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/rtk-monde/rtk-monde.m3u8"
           ],
           "number": "84",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/rtk-monde/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2NDY2NjZf/rtkmondetv.jpg",
           "title": "RTK MONDE"
         },
@@ -673,7 +673,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/hello-tv/hello-tv.m3u8"
           ],
           "number": "85",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/hello-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
           "title": "HELLO TV"
         },
@@ -683,7 +683,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
           ],
           "number": "86",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/espac-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2MjEwMDFf/espectv.jpg",
           "title": "ESPEC TV"
         },
@@ -693,7 +693,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/sm-video/sm-video.m3u8"
           ],
           "number": "87",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/sm-video-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
           "title": "SM-VIDEO TV"
         },
@@ -703,7 +703,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
           ],
           "number": "88",
-          "subtitle":"Loading Data ...",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/man-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
           "title": "MAITRE ADELARD"
         },
