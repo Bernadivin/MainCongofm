@@ -677,6 +677,36 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
           "title": "HELLO TV"
         },
+		{
+    "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
+      "sources": [
+          "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
+          ],
+          "number": "86",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE2MjEwMDFf/espectv.jpg",
+          "title": "ESPEC TV"
+        },
+		{
+    "description": "SM-Video TV est une chaîne généraliste d'informations et divrtissement Émettant en Republique Democratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/sm-video/sm-video.m3u8"
+          ],
+          "number": "87",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
+          "title": "SM-VIDEO TV"
+        },
+		{
+    "description": "Maitre Adelard News tlevision Émettant en Republique Democratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
+          ],
+          "number": "88",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
+          "title": "MAITRE ADELARD"
+        },
         { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "76", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }
 	   ]
     }
