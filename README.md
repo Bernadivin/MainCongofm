@@ -577,6 +577,106 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "title": "CCPV TV"
         },
+		 {
+    "description": "NURU radio télévision c’est une chaîne religieuse émettant depuis la République démocratique du Congo 🇨🇩 dans la province du haut katanga tout précisément dans la ville de LIKASI NOTRE fréquence radio 90.5 Fm , 525.25 MHz à la télévision",
+      "sources": [
+          "https://stream.berosat.live:19360/nuru-tv/nuru-tv.m3u8"
+          ],
+          "number": "76",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTEyNzMzNTJf/nurutv.jpg",
+          "title": "NURU TV"
+        },
+		{
+    "description": "Télé Plus télévision c’est une chaîne generaliste émettant depuis la République démocratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/tele-plus/tele-plus.m3u8"
+          ],
+          "number": "77",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE2NTE0NDdf/teleplus.jpg",
+          "title": "TELE PLUS"
+        },
+		{
+    "description": "Changing Lives Through the Gospel Walk Of Faith TV is a dynamic Christian television platform dedicated to spreading the life-transforming message of Jesus Christ to audiences around the world. With a strong commitment to faith, truth, and spiritual growth, the channel serves as a beacon of hope, inspiration, and encouragement for individuals and families seeking a deeper relationship with God. Through powerful preaching, uplifting worship, life-changing testimonies, and impactful teaching programs, Walk Of Faith TV equips viewers with biblical principles for everyday living. The station is passionate about raising disciples, strengthening believers, and reaching the lost with the gospel message. Driven by the vision of transforming lives and communities, Walk Of Faith TV continues to use media as a tool to inspire faith, restore hope, and empower people to walk boldly in their God-given purpose",
+      "sources": [
+          "https://stream.berosat.live:19360/walk-faith/walk-faith.m3u8"
+          ],
+          "number": "78",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
+          "title": "WALK OF FAITH TV"
+        },
+		{
+    "description": "Central Voice Television is a broadcasting channel from Zambia",
+      "sources": [
+          "https://stream.berosat.live:19360/central-voice/central-voice.m3u8"
+          ],
+          "number": "79",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE0MDY4ODRf/centralvoice.jpg",
+          "title": "CENTRAL VOICE"
+        },
+		{
+    "description": "☀️🌧⚡️MTV RDC – Météo Télévision est la première chaîne congolaise entièrement dédiée à l’information météorologique et climatique en République démocratique du Congo. Notre mission est simple : 🌍 Informer • Prévenir • Protéger ☀️🌧⚡️MTV RDC ☀️🌧⚡️ Comprendre le ciel, anticiper demain",
+      "sources": [
+          "https://stream.berosat.live:19360/mtv-index/mtv-index.m3u8"
+          ],
+          "number": "80",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTEwMDAyNTBf/meteotv.jpg",
+          "title": "METEO TV"
+        },
+		{
+    "description": "Gplus télévision, est une chaîne des Saints. Un jour dans le royaume de cieux. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/gplus-tv/gplus-tv.m3u8"
+          ],
+          "number": "81",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE0MjEzMjhf/Gplustv.jpg",
+          "title": "GPLUS TV"
+        },
+		{
+    "description": "CONGO NEW LOOK Télévision, à caractère générale, située au cœur de la ville province de Kinshasa, au quartier Christ-Roi, dans la commune de Kinshasa, la capitale de la République démocratique du Congo,crée par un digne fils du Pays, et un journaliste professionnel et expérimenter, qui a une carrière de prêt de 3 décennies.A la personne de Monsieur Landu-Solo Thierry. Nous emettons à Kinshasa en République démocratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/cnltv-index/cnltv-index.m3u8"
+          ],
+          "number": "82",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE2NDkzOTJf/CongoNewLook.jpg",
+          "title": "CNL TV"
+        },
+		{
+    "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
+      "sources": [
+          "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
+          ],
+          "number": "83",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
+          "title": "SV TV"
+        },
+		{
+    "description": "RTK Monde Télévision est une chaîne kimbanguiste emettant depuis kinshasa en République démocratique du Congo",
+      "sources": [
+          "https://stream.berosat.live:19360/rtk-monde/rtk-monde.m3u8"
+          ],
+          "number": "84",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE2NDY2NjZf/rtkmondetv.jpg",
+          "title": "RTK MONDE"
+        },
+		{
+    "description": "Hello TV est une Television d’information générale qui émet depuis République démocratique du Congo.",
+      "sources": [
+          "https://stream.berosat.live:19360/hello-tv/hello-tv.m3u8"
+          ],
+          "number": "85",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
+          "title": "HELLO TV"
+        },
         { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "76", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }
 	   ]
     }
