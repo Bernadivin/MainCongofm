@@ -199,7 +199,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
         { "description": "DealWorld TV,  La convergence du commerce et de la connaissance.  DealWorld TV est une chaîne hybride IPTV en direct de téléachat et de formation, conçue pour répondre aux attentes d’un public en quête de solutions concrètes, d’opportunités commerciales et de montées en compétences. Elle combine la puissance du téléachat interactif avec des contenus pédagogiques ciblés, pour créer un écosystème unique où chaque produit vendu est aussi une porte d’entrée vers le savoir-faire.  
 Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs offres dans un format immersif, DealWorld TV propose un modèle économique innovant, scalable et orienté performance. « DealWorld TV – Le média qui transforme l’achat en savoir", "sources": [ "http://45.8.148.135/hls/CANAL-TEST/index.m3u8" ], "number": "32", "subtitle": "Still Updating ....", "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk2Xw/DealWorld.jpg", "title": "DEAL WORLD TV" },
 {
-     "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo",
+     "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo",
           "sources": [
             "https://stream.berosat.live:19360/live-tv/live-tv.m3u8"
           ],
@@ -219,14 +219,14 @@ Idéale pour les marques, formateurs et distributeurs souhaitant valoriser leurs
           "title": "ESAIE 45 TELE"
          },
           {
-     "description": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+     "description": "Liberty television est une chaine generalite en Republique Democratique du Congo",
           "sources": [
-            "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8"
+            "https://stream.berosat.live:19360/liberty-tv/liberty-tv.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/cptv-tv/?header=true",
 		  "number": "35",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg",
-          "title": "CPT TV"
+          "thumb": "https://od.lk/s/NDZfOTExMDY0NTlf/libertytv.jpg",
+          "title": "LIBERTY TV"
           },
           {
      "description": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
