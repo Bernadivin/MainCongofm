@@ -542,7 +542,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "GUILD TV"
  },
 
-{ "description": "RDPC TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "https://stream.2apps.cloud/B15/testspeed/@CHANNELTV/playlist.m3u8" ], "number": "71", "subtitle": "Loading Data ...", "thumb": "https://od.lk/s/NDZfODQyOTg4OTNf/rdpctv.jpg", "title": "RDPC TV" },
+{ "description": "Numerica Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo", "sources": [ "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8" ], "number": "71", "subtitle": "Loading Data ...", "thumb": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg", "title": "NUMERICA TV" },
  
 { "description": "Next TV est une chaine generaliste emmettant depuis cameroune", "sources": [ "http://41.223.30.228/NEXTTV/video.m3u8" ], "number": "72", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/NDZfODIzODAxMzFf/nextTV.jpg", "title": "NEXT TV" },
 
@@ -683,7 +683,7 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           ],
           "number": "86",
           "subtitle":"https://stream.berosat.live:2020/country-stats/espac-tv/?header=true",
-          "thumb": "https://od.lk/s/NDZfOTE2MjEwMDFf/espectv.jpg",
+          "thumb": "https://od.lk/s/NDZfOTE2NjkwODFf/Espectele.jpg",
           "title": "ESPEC TV"
         },
 		{
@@ -706,7 +706,47 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
           "title": "MAITRE ADELARD"
         },
-        { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "76", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" }
+        { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "89", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
+		{
+    "description": "H3 tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+      "sources": [
+          "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
+          ],
+          "number": "90",
+          "subtitle":"https://stream.berosat.live:2020/country-stats//?header=true",
+          "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
+          "title": "H3 TV"
+        },
+		{
+    "description": "H3 tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+      "sources": [
+          "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
+          ],
+          "number": "91",
+          "subtitle":"https://stream.berosat.live:2020/country-stats//?header=true",
+          "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
+          "title": "H3 TV"
+        },
+		{
+    "description": "Muzangala TV est une chaîne de télévision basée au Angola.",
+      "sources": [
+          "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"
+          ],
+          "number": "92",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
+          "title": "MUZANGALA TV"
+        },
+		{
+    "description": "Intelligent TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres...",
+      "sources": [
+          "https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8"
+          ],
+          "number": "93",
+          "subtitle":"Loading Data ...",
+          "thumb": "https://od.lk/s/M18yNjk2MDA4NDZf/intelligent.jpg",
+          "title": "INTELLIGENT TV"
+        }
 	   ]
     }
   ]
