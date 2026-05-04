@@ -428,59 +428,59 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
           "https://stream.berosat.live:19360/afri-tv/afri-tv.m3u8"
           ],
           "number": "57",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/afr-tv/?header=true",
+          "subtitle":"https://stream.berosat.live:2020/country-stats/afri-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
           "title": "AFRI TV"
                 },
                 {
-    "description": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+    "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
       "sources": [
-          "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@RUPTURE_TV.m3u8"
+          "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
           ],
           "number": "58",
-          "subtitle":"Updating Data ...",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg",
-          "title": "RUPTURE TV"
+          "subtitle":"https://stream.berosat.live:2020/country-stats/zamiri-tv/?header=true",
+          "thumb": "https://od.lk/s/NDZfOTIwNTE5NzJf/Zamirirtv.png",
+          "title": "ZAMIRI TV"
                 },
                  {
-     "description": "RTSIR, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+     "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "sources": [
-            "http://185.209.228.92:8080/hls/RTSIR.m3u8"
+            "https://eggproiptv.duckdns.org:3256/hybrid/play.m3u8"
           ],
 	  "number": "59",
-          "subtitle": "Updating Data ...",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDAzXw/rtsir.jpg",
-          "title": "RTSIR"
+          "subtitle": "https://stream.berosat.live:2020/country-stats/zami/?header=true",
+          "thumb": "https://od.lk/s/NDZfOTE5NTk5NjJf/grandmeddia.jp",
+          "title": "GRAND MEDIA TV"
 },
 {
-     "description": "Bilolo tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+     "description": "Yeshoua Tv, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation",
           "sources": [
-            "http://185.209.228.92:8080/hls/BIOLO_TV_HD.m3u8"
+            "https://neriyastreaming.ddns.net/memfs/72d07006-7c26-411e-b192-4b425e2f0366.m3u8"
           ],
 	  "number": "60",
           "subtitle": "Loading Data ....",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk0Xw/bilolotv.jpg",
-          "title": "BILOLO TV"
+          "thumb": "https://od.lk/s/NDZfOTE5NDM1OTdf/yeshouatv.jpg",
+          "title": "YESHOUA TV"
          },
           {
-    "description": "Intello Plus Afrika, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+    "description": "Source inter tv, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation..",
       "sources": [
-          "http://185.209.228.92:8080/hls/INTELLO+.m3u8"
+          "https://neriyastreaming.ddns.net/memfs/23605fb9-22e5-4370-9cd5-06f5c9306379.m3u8"
           ],
           "number": "61",
           "subtitle":"Updating Data ...",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
-          "title": "INTELLO+ TV"
+          "thumb": "https://od.lk/s/NDZfOTE5NDM1OTVf/sourcetv.jpg",
+          "title": "SOURCE INTER"
            },
            {
-    "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+    "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo",
       "sources": [
-          "http://185.209.228.92:8080/hls/GRAND_MEDIA_TV.m3u8"
+          "https://eggproiptv.duckdns.org:3215/hybrid/play.m3u8"
           ],
           "number": "62",
           "subtitle":"Loading Data .....",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
-          "title": "GRAND MEDIA TV"
+          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQwXw/bmtv.jpg",
+          "title": "BM TV"
             },
              {
     "description": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions.
@@ -494,14 +494,14 @@ CONTACTS: +2250788422056/0596455112",
           "title": "P'AFRICA TV"
                 },
                  {
-    "description": "KEUR NDANANE TV est une chaîne multiculturelle diffusant au Senegal axée sur la diversité des contenus pour répondre aux intérêts variés de notre public. Localisation : Rufisque, à quelques kilomètres de Dakar, la capitale du Sénégal. Nous Contacter sur 1 Rue PAUL Sicamois prolongée juste avant l’école primaire Mbaye NDIR Tel : +221 33 871 61 22 /221772082121/+393515993000 Email : keurndananetv.sn@gmail.com",
+    "description": "Tele 50 est la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.",
       "sources": [
-          "http://livestream.kgsols.com/push/KeurN/playlist.m3u8"
+          "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
           ],
           "number": "64",
           "subtitle":"Loading Data ...",
-          "thumb": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
-          "title": "KEUR NDANANE"
+          "thumb": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
+          "title": "TELE 50"
                 },
                 { "description": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun)
 Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>", "sources": [ "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8" ], "number": "65", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg", "title": "DREAM CHANNEL"},
