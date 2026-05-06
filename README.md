@@ -727,12 +727,13 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
           "title": "H3 TV"
         },
+		{ "description": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "sources": [ "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8" ], "number": "92", "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg", "title": "S-MEDIAS TV 3" },
 		{
     "description": "Muzangala TV est une chaîne de télévision basée au Angola.",
       "sources": [
           "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8"
           ],
-          "number": "92",
+          "number": "93",
           "subtitle":"Loading Data ...",
           "thumb": "https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
           "title": "MUZANGALA TV"
