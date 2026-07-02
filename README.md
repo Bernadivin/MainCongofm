@@ -20,46 +20,15 @@
           "title": "EXPLOITS TV"
  },
 {
-      "description": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
-          "sources": [
-            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
-          ],
-	  "number": "11",
-          "subtitle": "https://stream.berosat.live:2020/country-stats/toseka-tv/?header=true",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
-          "title": "TOSEKA TV"
- },
-{
-    "description": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-      "sources": [
-          "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
-          ],
-          "subtitle": "https://stream.berosat.live:2020/country-stats/jsn-tv/?header=true",
-          "number": "12",
-          "thumb": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
-          "title": "JSN TV"
-        },
-		{
     "description": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
       "sources": [
-          "http://iptv.berosat.live/hls/RLPRO-TV/index.m3u8"
+          "http://ip-pro.berosat.live/hls/live/RLPRO-TV/index.m3u8"
           ],
           "subtitle": "https://stream.berosat.live:2020/country-stats/rlpro-tv/?header=true",
           "number": "13",
           "thumb": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg",
           "title": "RL PRO TV"
         },
-		{
-    "description": "𝗧𝗩𝟳 𝗩𝗜𝗘 𝗲𝘀𝘁 𝘂𝗻𝗲 𝗰𝗵𝗮𝗶̂𝗻𝗲 𝗱𝗲 𝘁𝗲́𝗹𝗲́𝘃𝗶𝘀𝗶𝗼𝗻 𝗱𝗲 𝗱𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗺𝗲𝗻𝘁 𝗶𝗻𝘁𝗲́𝗴𝗿𝗮𝗹, 𝗲́𝗺𝗲𝘁𝘁𝗮𝗻𝘁 𝗱𝗲𝗽𝘂𝗶𝘀 𝗬𝗮𝗼𝘂𝗻𝗱𝗲́-𝗖𝗮𝗺𝗲𝗿𝗼𝘂𝗻",
-      "sources": [
-          "https://stream.berosat.live:19360/tv7vie/tv7vie.m3u8"
-          ],
-          "subtitle": "https://stream.berosat.live:2020/country-stats/tv7vie/?header=true",
-          "number": "14",
-          "thumb": "https://od.lk/s/NDZfOTE5NDYxMTZf/Tv7vie.jpg",
-          "title": "TV7 VIE"
-        },
-		{
     "description": "Le Monde en 24H, l'autoroute de l'information.",
       "sources": [
           "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8"
@@ -110,7 +79,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
           "title": "GOLGOTHA TV"
         },
-		  { "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/mstv/mstv.m3u8" ], "number": "20", "subtitle": "https://stream.berosat.live:2020/country-stats/congo-unis/?header=true", "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg", "title": "MS TV" },
+		  { "description": "MS TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres chritienne. qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo", "sources": [ "http://ip-pro.berosat.live/hls/live/MSTV/index.m3u8" ], "number": "20", "subtitle": "https://stream.berosat.live:2020/country-stats/congo-unis/?header=true", "thumb": "https://od.lk/s/NDZfOTE5ODkzODBf/mstv.jpg", "title": "MS TV" },
         {
      "description": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner.",
           "sources": [
@@ -140,16 +109,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "number": "23",
           "thumb": "https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png",
           "title": "ANTENNE A"
-        },
-        {
-    "description": "Sifa La Souriante Télévision, est la chaine cinematographie emettant depuis la France",
-      "sources": [
-          "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
-          ],
-          "subtitle": "https://stream.berosat.live:2020/country-stats/sifa-tv/?header=true",
-          "number": "24",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
-          "title": "SIFA TV"
         },
         { "description": "Champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus", "sources": [ "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8" ], "number": "25", "subtitle": "https://stream.berosat.live:2020/country-stats/champion-tv/?header=true", "thumb": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg", "title": "CHAMPION TV" },
 
@@ -185,17 +144,7 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "thumb": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg",
           "title": "LUBEMBE TV"
         },
-        { "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo", "sources": [ "https://stream.berosat.live:19360/fm-tv/fm-tv.m3u8" ], "number": "30", "subtitle": "https://stream.berosat.live:2020/country-stats/fm-tv/?header=true", "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg", "title": "FM TV" },
-         {
-    "description": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
-      "sources": [
-          "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
-          ],
-          "subtitle": "https://stream.berosat.live:2020/country-stats/infos-plus/?header=true",
-          "number": "31",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
-          "title": "INFO + HD TV"
-        },
+        { "description": "La Fondation Maluwa Télévision (FM TV), est une chaîne generaliste caummunautaire qui émettant en République Démocratique du Congo", "sources": [ "http://ip-pro.berosat.live/hls/live/FM-TV/index.m3u8" ], "number": "30", "subtitle": "https://stream.berosat.live:2020/country-stats/fm-tv/?header=true", "thumb": "https://od.lk/s/NDZfODU4ODMyMjBf/fmtv.jpg", "title": "FM TV" },
         { "description": "La Borne Mpasa, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...", "sources": [ "https://stream.berosat.live:19360/laborne-tv/laborne-tv.m3u8" ], "number": "32", "subtitle": "https://stream.berosat.live:2020/country-stats/laborne-tv/?header=true", "thumb": "https://od.lk/s/NDZfOTExNzQ1NzRf/bornetv.jpg", "title": "LA BORNE TV" },
 {
      "description": "Balade Monde Télévision est la première chaine de découverte en République Democratique du Congo",
@@ -300,16 +249,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "title": "DESTINY CHANNEL"
          },
          {
-     "description": "Prijana télévision, est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "sources": [
-            "https://stream.berosat.live:19360/prijana/prijana.m3u8"
-          ],
-	  "number": "44",
-          "subtitle": "https://stream.berosat.live:2020/country-stats/prijana/?header=true",
-          "thumb": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
-          "title": "PRIJANA TV"
-          },
-         {
     "description": "La chaîne de télévision JOS-TV HD est une chaîne communautaire à caractère culturel et généraliste émettant en clair en République du Congo et en ligne via YouTube, Facebook, Instagram et autres..Bientôt dans l'application TV chaîne. JOS-TV HD à pour objectif : Informer, éduquer, divertir et promouvoir la culture Africaine et en particulier la culture congolaise . Étant une chaîne communautaire de proximité culturelle et généraliste, nous sommes ouvertes à toutes les langues vernaculaires à la couleur du Congo et aux langues étrangères. La chaîne multidirectionnelle, le réel des médias au Congo",
       "sources": [
           "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
@@ -318,16 +257,6 @@ Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-
           "subtitle":"https://stream.berosat.live:2020/country-stats/jos-tv-stream/?header=true",
           "thumb": "https://od.lk/s/NDZfNzgxNTA1ODVf/Jostv.jpg",
           "title": "JOS-TV HD"
-                },
-                 {
-    "description": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo",
-      "sources": [
-          "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8"
-          ],
-          "number": "46",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/chtv-hd/?header=true",
-          "thumb": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg",
-          "title": "CH TV HD"
                 },
                 {
     "description": "RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information",
@@ -413,16 +342,6 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
           "title": "NTI TV"
                 },
                 {
-    "description": "Maitre Adelard News tlevision Émettant en Republique Democratique du Congo.",
-      "sources": [
-          "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
-          ],
-          "number": "56",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/man-rtv/?header=true",
-          "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
-          "title": "MAITRE ADELARD"
-                },
-                {
     "description": "Afri TV est une chaîne généraliste qui diffuse que des predications, des informations, musiques, magazine et autres émettant depuis la République démocratique du Congo.",
       "sources": [
           "https://stream.berosat.live:19360/afri-tv/afri-tv.m3u8"
@@ -431,16 +350,6 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
           "subtitle":"https://stream.berosat.live:2020/country-stats/afri-tv/?header=true",
           "thumb": "https://od.lk/s/NDZfOTE2NzcwODJf/Afritv.jpg",
           "title": "AFRI TV"
-                },
-                {
-    "description": "Zamiri tv une chaîne éducative pour la congolaise qui émet depuis Lubumbashi, Province du Hut-Katanga, en République démocratique du Congo",
-      "sources": [
-          "https://stream.berosat.live:19360/zamiri-tv/zamiri-tv.m3u8"
-          ],
-          "number": "58",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/zamiri-tv/?header=true",
-          "thumb": "https://od.lk/s/NDZfOTIwNTE5NzJf/Zamirirtv.png",
-          "title": "ZAMIRI TV"
                 },
                  {
      "description": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
@@ -475,7 +384,7 @@ Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUEe",
            {
     "description": "BM télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation. Nous Emettons depuis Kinshasa, en Republique Democratique du Congo",
       "sources": [
-          "https://eggproiptv.duckdns.org:3215/hybrid/play.m3u8"
+          "https://bmtv.be/stream/play.m3u8"
           ],
           "number": "62",
           "subtitle":"Loading Data .....",
@@ -647,36 +556,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "title": "CNL TV"
         },
 		{
-    "description": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa",
-      "sources": [
-          "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8"
-          ],
-          "number": "83",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/sv-stream-tv/?header=true",
-          "thumb": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg",
-          "title": "SV TV"
-        },
-		{
-    "description": "RTK Monde Télévision est une chaîne kimbanguiste emettant depuis kinshasa en République démocratique du Congo",
-      "sources": [
-          "https://stream.berosat.live:19360/rtk-monde/rtk-monde.m3u8"
-          ],
-          "number": "84",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/rtk-monde/?header=true",
-          "thumb": "https://od.lk/s/NDZfOTE2NDY2NjZf/rtkmondetv.jpg",
-          "title": "RTK MONDE"
-        },
-		{
-    "description": "Hello TV est une Television d’information générale qui émet depuis République démocratique du Congo.",
-      "sources": [
-          "https://stream.berosat.live:19360/hello-tv/hello-tv.m3u8"
-          ],
-          "number": "85",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/hello-tv/?header=true",
-          "thumb": "https://od.lk/s/NDZfOTE2NTE1MzVf/Hellotv1.jpg",
-          "title": "HELLO TV"
-        },
-		{
     "description": "Espec télévision est une chaîne qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation...",
       "sources": [
           "https://stream.berosat.live:19360/espec-tv/espec-tv.m3u8"
@@ -696,16 +575,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "thumb": "https://od.lk/s/NDZfOTE2NjMxNTZf/SMvideotv2.jpg",
           "title": "SM-VIDEO TV"
         },
-		{
-    "description": "Maitre Adelard News tlevision Émettant en Republique Democratique du Congo",
-      "sources": [
-          "https://stream.berosat.live:19360/man-tv/man-tv.m3u8"
-          ],
-          "number": "88",
-          "subtitle":"https://stream.berosat.live:2020/country-stats/man-tv/?header=true",
-          "thumb": "https://od.lk/s/NDZfOTE1NjE5MTVf/maitreAdelard.jpg",
-          "title": "MAITRE ADELARD"
-        },
         { "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.", "sources": [ "https://tnt-television.com/METANOIA-STREAM1/index.m3u8" ], "number": "89", "subtitle": "Updating Data ...", "thumb": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png", "title": "METANOIA TV" },
 		{
     "description": "H3 tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
@@ -713,16 +582,6 @@ GUILD TV  est une chaîne moderne et dynamique qui met en lumière la culture, l
           "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
           ],
           "number": "90",
-          "subtitle":"https://stream.berosat.live:2020/country-stats//?header=true",
-          "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
-          "title": "H3 TV"
-        },
-		{
-    "description": "H3 tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
-      "sources": [
-          "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
-          ],
-          "number": "91",
           "subtitle":"https://stream.berosat.live:2020/country-stats//?header=true",
           "thumb": "https://od.lk/s/NDZfOTE5NDI4MTRf/H3tv.jpg",
           "title": "H3 TV"
